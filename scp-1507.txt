@@ -1,5 +1,5 @@
 title:SCP-1507
-tags:
+tags:euclid flamingo scp
 [[>]]
 [[module Rate]]
 [[/>]]
