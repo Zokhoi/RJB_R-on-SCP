@@ -1,5 +1,5 @@
 title:New Technical Issues
-tags:collaboration tale
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
