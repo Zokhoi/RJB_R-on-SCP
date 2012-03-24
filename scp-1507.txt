@@ -1,5 +1,5 @@
 title:SCP-1507
-tags:euclid scp
+tags:alive euclid scp
 [[>]]
 [[module Rate]]
 [[/>]]
