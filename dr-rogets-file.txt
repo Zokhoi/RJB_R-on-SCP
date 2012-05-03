@@ -1,5 +1,5 @@
 title:Dr. Roget's Personnel File
-tags:
+tags:author
 [[div style="float:right; margin:0 2em 1em 2em; width:340px; border:0;"]]
 [[html]]
 <style type="text/css">
