@@ -1,5 +1,5 @@
 title:SCP-1799
-tags:
+tags:dr-wondertainment safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
