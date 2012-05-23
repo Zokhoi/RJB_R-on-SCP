@@ -1,4 +1,5 @@
 title:SCP-1341
+tags:container ectoentropic euclid glass scp simian
 [[>]]
 [[module Rate]]
 [[/>]]
