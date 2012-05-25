@@ -1,4 +1,5 @@
 title:SCP-1833
+tags:document safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
