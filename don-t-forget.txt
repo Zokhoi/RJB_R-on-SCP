@@ -1,5 +1,5 @@
 title:Don't Forget
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
