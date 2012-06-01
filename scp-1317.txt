@@ -1,5 +1,5 @@
 title:SCP-1317
-tags:euclid scp
+tags:safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
