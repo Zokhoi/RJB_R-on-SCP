@@ -1,5 +1,5 @@
 title:SCP-1317
-tags:
+tags:euclid scp the-factory
 [[>]]
 [[module Rate]]
 [[/>]]
