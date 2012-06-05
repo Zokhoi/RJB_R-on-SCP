@@ -1,5 +1,5 @@
 title:SCP-1938
-tags:
+tags:container ectoentropic liquid piscine safe scp teleportation
 [[>]]
 [[module Rate]]
 [[/>]]
