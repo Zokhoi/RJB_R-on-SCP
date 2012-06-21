@@ -1,4 +1,5 @@
 title:SCP-744
+tags:autonomous building euclid scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
