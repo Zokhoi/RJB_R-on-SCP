@@ -1,4 +1,5 @@
 title:SCP-1277
+tags:plant safe scp sentient skeletal
 [[>]]
 [[module Rate]]
 [[/>]]
