@@ -1,5 +1,5 @@
 title:SCP-1277
-tags:
+tags:safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
