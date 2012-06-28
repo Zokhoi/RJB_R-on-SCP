@@ -1,5 +1,5 @@
 title:Decomm Anon
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
