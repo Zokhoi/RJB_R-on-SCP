@@ -1,5 +1,5 @@
 title:Transparent
-tags:dr-wondertainment tale
+tags:dr-wondertainment mister tale
 [[>]]
 [[module Rate]]
 [[/>]]
