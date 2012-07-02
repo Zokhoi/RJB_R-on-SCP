@@ -1,5 +1,5 @@
 title:SCP-1684
-tags:
+tags:euclid scp
 [[>]]
 [[module Rate]]
 [[/>]]
