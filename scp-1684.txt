@@ -1,5 +1,5 @@
 title:SCP-1684
-tags:euclid scp
+tags:building cognitohazard euclid observational sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
