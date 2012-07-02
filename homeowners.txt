@@ -1,5 +1,5 @@
 title:Homeowners
-tags:
+tags:tale
 This is a tale about [[[SCP-1684]]], read it before you read this.
 
 --------------------------------------------
