@@ -1,4 +1,5 @@
 title:SCP-1725
+tags:appliance marshall-carter-and-dark safe scp transfiguration
 [[>]]
 [[module Rate]]
 [[/>]]
