@@ -1,5 +1,5 @@
 title:SCP-1725
-tags:
+tags:marshall-carter-and-dark safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
