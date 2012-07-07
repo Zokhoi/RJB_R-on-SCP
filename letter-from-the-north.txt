@@ -1,5 +1,9 @@
 title:Letter from the north
 tags:
+[[>]]
+[[module Rate]]
+[[/>]]
+
 This is an [[[scp-1358]]] tale.
 
 ----------------------------------------------
