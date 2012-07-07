@@ -1,6 +1,6 @@
 title:Letter from the north
 tags:
-This is a [[[1358]]] tale.
+This is an [[[scp-1358]]] tale.
 
 ----------------------------------------------
 
