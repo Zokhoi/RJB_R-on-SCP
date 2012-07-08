@@ -1,4 +1,5 @@
 title:SCP-1872
+tags:compulsion light safe scp tool vehicle
 [[>]]
 [[module Rate]]
 [[/>]]
