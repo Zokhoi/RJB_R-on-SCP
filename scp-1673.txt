@@ -1,5 +1,5 @@
 title:SCP-1673
-tags:
+tags:autonomous humanoid location organic safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
