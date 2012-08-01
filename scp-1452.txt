@@ -1,4 +1,5 @@
 title:SCP-1452
+tags:building euclid scp self-replicating
 [[>]]
 [[module Rate]]
 [[/>]]
