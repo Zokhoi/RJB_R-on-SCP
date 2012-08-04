@@ -1,5 +1,5 @@
 title:SCP-2600-EX
-tags:
+tags:explained tale
 [[>]]
 [[module Rate]]
 [[/>]]
