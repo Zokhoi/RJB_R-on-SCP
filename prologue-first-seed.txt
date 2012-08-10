@@ -1,5 +1,5 @@
 title:Prologue-First Seed
-tags:
+tags:chaos-insurgency tale
 [[>]]
 [[module Rate]]
 [[/>]]
