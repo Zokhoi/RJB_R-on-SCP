@@ -1,5 +1,5 @@
 title:SCP-1178
-tags:
+tags:airborne artifact electrical gru-division-p keter mobile scp transmission xk
 [[>]]
 [[module Rate]]
 [[/>]]
