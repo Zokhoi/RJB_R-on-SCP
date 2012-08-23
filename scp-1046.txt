@@ -1,5 +1,5 @@
 title:SCP-1046
-tags:
+tags:alive euclid humanoid mobile scp
 [[>]]
 [[module Rate]]
 [[/>]]
