@@ -1,5 +1,5 @@
 title:SCP-1699
-tags:
+tags:location safe sapient scp
 [[>]]
 [[module Rate]]
 [[/>]]
