@@ -1,5 +1,5 @@
 title:Individuality
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
