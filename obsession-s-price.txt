@@ -1,5 +1,5 @@
 title:Obsession's Price
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
