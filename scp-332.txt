@@ -1,5 +1,5 @@
 title:SCP-332
-tags:
+tags:acoustic compulsion euclid mind-affecting scp
 [[>]]
 [[module Rate]]
 [[/>]]
