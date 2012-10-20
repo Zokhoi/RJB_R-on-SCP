@@ -1,4 +1,5 @@
 title:SCP-1976
+tags:alive compulsion humanoid safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
