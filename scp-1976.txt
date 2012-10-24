@@ -1,5 +1,5 @@
 title:SCP-1976
-tags:alive compulsion humanoid safe scp
+tags:alive cognitohazard humanoid memory-affecting mind-affecting safe scp sensory visual
 [[>]]
 [[module Rate]]
 [[/>]]
