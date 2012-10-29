@@ -1,5 +1,5 @@
 title:SCP-821
-tags:
+tags:building humanoid neutralized safe
 [[>]]
 [[module Rate]]
 [[/>]]
