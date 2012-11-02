@@ -1,5 +1,5 @@
 title:SCP-031
-tags:
+tags:acoustic amorphous cognitohazard safe scp sensory telepathic visual
 [[>]]
 [[module Rate]]
 [[/>]]
