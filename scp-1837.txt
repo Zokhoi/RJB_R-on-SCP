@@ -1,5 +1,5 @@
 title:SCP-1837
-tags:
+tags:chemical corrosive safe scp tool
 [[>]]
 [[module Rate]]
 [[/>]]
