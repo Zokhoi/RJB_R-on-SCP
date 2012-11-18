@@ -1,4 +1,5 @@
 title:SCP-1837
+tags:chemical corrosive safe scp sentient tool
 [[>]]
 [[module Rate]]
 [[/>]]
