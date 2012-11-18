@@ -5,8 +5,8 @@ tags:chemical corrosive safe scp sentient tool
 [[/>]]
 
 
-[[div style="float:right; margin:0 1em 0em 1em; width:300px; border:0;"]]
-|||| [[image http://scp-wiki.wdfiles.com/local--files/scp-1837/SCIENCE%20MOP.jpeg width="300px"]] ||
+[[div style="float:right; margin:0 1em 0em 1em; width:225px; border:0;"]]
+|||| [[image http://scp-wiki.wdfiles.com/local--files/scp-1837/SCIENCE%20MOP.jpeg width="225px"]] ||
 ||||~ ^^SCP-1837 during initial testing.^^ ||
 [[/div]]
 
