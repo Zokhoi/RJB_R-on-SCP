@@ -1,5 +1,5 @@
 title:SCP-1837
-tags:autonomous corrosive safe scp tool transfiguration
+tags:autonomous corrosive safe scp sentient tool transfiguration
 [[>]]
 [[module Rate]]
 [[/>]]
