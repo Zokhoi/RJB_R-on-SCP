@@ -1,4 +1,5 @@
 title:SCP-1628
+tags:automaton autonomous city euclid historical humanoid loop scp structure
 [[>]]
 [[module Rate]]
 [[/>]]
