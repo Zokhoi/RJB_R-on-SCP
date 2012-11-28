@@ -1,5 +1,5 @@
 title:Anomalous Incidents
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
