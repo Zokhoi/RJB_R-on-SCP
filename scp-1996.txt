@@ -1,5 +1,5 @@
 title:SCP-1996
-tags:
+tags:document euclid humanoid scp teleportation uncontained
 [[>]]
 [[module Rate]]
 [[/>]]
