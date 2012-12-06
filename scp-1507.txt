@@ -1,5 +1,5 @@
 title:SCP-1507
-tags:alive euclid scp swarm
+tags:acoustic alive avian euclid scp swarm
 [[>]]
 [[module Rate]]
 [[/>]]
