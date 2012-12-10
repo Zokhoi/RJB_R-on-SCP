@@ -1,5 +1,5 @@
 title:Timing
-tags:tale
+tags:mister tale
 [[>]]
 [[module Rate]]
 [[/>]]
