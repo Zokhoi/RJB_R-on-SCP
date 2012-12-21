@@ -1,5 +1,5 @@
 title:SCP-1611
-tags:
+tags:building euclid humanoid sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
