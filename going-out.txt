@@ -1,5 +1,5 @@
 title:Going Out
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
