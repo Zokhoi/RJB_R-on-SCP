@@ -1,5 +1,4 @@
 title:Going Out
-tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
@@ -50,7 +49,7 @@ tags:tale
 
 > Item: Gaseous matter.
 > 
-> Note: Unsafe to breath.
+> Note: Unsafe to breathe.
 > 
 > Status: Stolen via inhalation after 20.6 seconds.
 
