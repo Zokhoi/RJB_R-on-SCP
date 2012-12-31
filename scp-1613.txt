@@ -1,5 +1,5 @@
 title:SCP-1613
-tags:
+tags:document euclid scp transfiguration
 [[>]]
 [[module Rate]]
 [[/>]]
