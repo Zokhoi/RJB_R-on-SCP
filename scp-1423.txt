@@ -1,5 +1,5 @@
 title:SCP-1423
-tags:addictive artifact cognitohazard media memory-affecting observational safe scp visual
+tags:addictive cognitohazard document media memory-affecting observational safe scp visual
 [[>]]
 [[module Rate]]
 [[/>]]
