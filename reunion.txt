@@ -1,5 +1,5 @@
 title:Remembrance: Part Two
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
