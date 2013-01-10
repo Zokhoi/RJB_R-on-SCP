@@ -1,5 +1,5 @@
 title:Remembrance
-tags:
+tags:hub
 > **__Remembrance__**:
 > 
 > * **//[[[Days Gone By| First Bell]]]//**
