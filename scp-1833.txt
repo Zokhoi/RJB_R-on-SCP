@@ -1,5 +1,5 @@
 title:SCP-1833
-tags:document safe scp sensory telepathic
+tags:class-of-76 document safe scp sensory telepathic
 [[>]]
 [[module Rate]]
 [[/>]]
