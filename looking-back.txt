@@ -1,4 +1,5 @@
 title:Epilogue: Last Word
+tags:class-of-76 tale
 [[>]]
 [[module Rate]]
 [[/>]]
