@@ -1,4 +1,5 @@
 title:SCP-1865
+tags:alive aquatic biological clothing safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
