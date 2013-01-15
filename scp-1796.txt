@@ -1,5 +1,5 @@
 title:SCP-1796
-tags:
+tags:artifact cognitohazard media meta safe scp tactile telepathic teleportation uiu
 [[>]]
 [[module Rate]]
 [[/>]]
