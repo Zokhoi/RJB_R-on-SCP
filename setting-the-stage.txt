@@ -1,5 +1,5 @@
 title:Setting the Stage
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
