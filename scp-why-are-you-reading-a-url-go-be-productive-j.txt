@@ -1,4 +1,5 @@
 title:SCP-5200-J
+tags:joke scp uncontained
 [[>]]
 [[module Rate]]
 [[/>]]
