@@ -1,4 +1,5 @@
 title:SCP-1513
+tags:adaptive alive animal mobile plant safe scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
