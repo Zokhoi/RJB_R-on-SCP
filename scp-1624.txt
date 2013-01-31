@@ -1,5 +1,5 @@
 title:SCP-1624
-tags:
+tags:computer document electronic euclid scp
 [[>]]
 [[module Rate]]
 [[/>]]
