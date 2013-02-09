@@ -1,5 +1,5 @@
 title:SCP-1967
-tags:
+tags:euclid extradimensional location scp
 [[>]]
 [[module Rate]]
 [[/>]]
