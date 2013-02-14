@@ -1,5 +1,5 @@
 title:Promethians
-tags:
+tags:prometheus tale
 [[>]]
 [[module Rate]]
 [[/>]]
