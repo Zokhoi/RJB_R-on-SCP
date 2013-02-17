@@ -1,5 +1,5 @@
 title:History Of The Universe Hub
-tags:
+tags:hub
 [[module ListUsers users="."]]
 Welcome, %%title%% 
 [[/module]]
