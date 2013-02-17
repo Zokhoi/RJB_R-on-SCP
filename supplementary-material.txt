@@ -1,5 +1,5 @@
 title:Supplementary Material
-tags:
+tags:essay
 [[tabview]]
 [[tab + References]]
 
