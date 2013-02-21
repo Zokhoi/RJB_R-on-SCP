@@ -1,5 +1,8 @@
 title:End Of Olympians Hub
-tags:hub tale
+[[>]]
+[[module Rate]]
+[[/>]]
+
 > [[=]]
 > [[size 120%]]**{{PROMETHEUS LABS}}**
 > ^^DATABASE #-2-320^^
