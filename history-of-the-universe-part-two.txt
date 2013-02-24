@@ -1,5 +1,5 @@
 title:History Of The Universe Part Two
-tags:
+tags:essay
 [[>]]
 [[module Rate]]
 [[/>]]
