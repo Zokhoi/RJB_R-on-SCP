@@ -1,5 +1,5 @@
 title:SCP-1407
-tags:
+tags:acoustic auditory electronic euclid factory scp self-replicating
 [[>]]
 [[module Rate]]
 [[/>]]
