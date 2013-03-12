@@ -1,5 +1,5 @@
 title:SCP-1305
-tags:alive carnivorous euclid insect predator scp
+tags:alive carnivorous euclid insect predatory scp
 [[>]]
 [[module Rate]]
 [[/>]]
