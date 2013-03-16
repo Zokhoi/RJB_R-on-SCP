@@ -1,5 +1,5 @@
 title:Game Day Part 3: Synchronous
-tags:
+tags:class-of-76 game_day tale
 [[>]]
 [[module Rate]]
 [[/>]]
