@@ -1,5 +1,5 @@
 title:SCP-1498
-tags:
+tags:appliance auditory autonomous euclid ovine scp sleep transmission
 [[>]]
 [[module Rate]]
 [[/>]]
