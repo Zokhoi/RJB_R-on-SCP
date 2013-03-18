@@ -1,5 +1,5 @@
 title:Preaching To The Choir
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
