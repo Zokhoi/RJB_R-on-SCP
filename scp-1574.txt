@@ -1,5 +1,5 @@
 title:SCP-1574
-tags:
+tags:adaptive airborne autonomous cognitohazard extraterrestrial keter scp sphere visual
 [[>]]
 [[module Rate]]
 [[/>]]
