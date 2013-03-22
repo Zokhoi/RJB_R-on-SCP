@@ -1,5 +1,5 @@
 title:SCP-1929
-tags:
+tags:airborne amorphous city euclid humanoid scp
 [[>]]
 [[module Rate]]
 [[/>]]
