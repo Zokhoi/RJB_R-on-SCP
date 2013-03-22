@@ -1,6 +1,6 @@
 title:SCP-1929
 tags:
->]]
+[[>]]
 [[module Rate]]
 [[/>]]
 
