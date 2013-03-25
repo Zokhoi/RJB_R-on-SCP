@@ -1,5 +1,5 @@
 title:SCP-1572
-tags:
+tags:auditory cognitohazard document knowledge map memory-affecting safe scp visual
 [[>]]
 [[module Rate]]
 [[/>]]
