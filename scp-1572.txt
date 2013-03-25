@@ -1,4 +1,5 @@
 title:SCP-1572
+tags:auditory cognitohazard compulsion document hallucation knowledge map safe scp sensory visual
 [[>]]
 [[module Rate]]
 [[/>]]
