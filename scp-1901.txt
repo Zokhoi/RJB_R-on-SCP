@@ -1,5 +1,5 @@
 title:SCP-1901
-tags:
+tags:auditory cognitohazard euclid infohazard scp sensory visual
 [[>]]
 [[module Rate]]
 [[/>]]
