@@ -1,5 +1,5 @@
 title:SCP-1957
-tags:
+tags:compulsion euclid scp self-replicating
 [[>]]
 [[module Rate]]
 [[/>]]
