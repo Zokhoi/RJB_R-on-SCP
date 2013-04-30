@@ -1,5 +1,5 @@
 title:SCP-1583
-tags:artifact biological container ectoentropic keter metallic scp
+tags:artifact biological container ectoentropic global-occult-coalition keter metallic scp
 [[>]]
 [[module Rate]]
 [[/>]]
