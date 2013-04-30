@@ -1,4 +1,5 @@
 title:SCP-1957
+tags:artifact compulsion engraved euclid mind-affecting scp self-replicating
 [[>]]
 [[module Rate]]
 [[/>]]
