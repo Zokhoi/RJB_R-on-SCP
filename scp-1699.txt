@@ -1,5 +1,5 @@
 title:SCP-1699
-tags:location safe sapient scp sentient
+tags:geological location safe sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
