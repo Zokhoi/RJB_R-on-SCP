@@ -1,5 +1,5 @@
 title:Roget's Proposal
-tags:
+tags:container scp sensory spacetime structure thaumiel visual
 [[>]]
 [[module Rate]]
 [[/>]]
