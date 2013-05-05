@@ -1,4 +1,5 @@
 title:Roget's Proposal
+tags:container scp sensory spacetime structure thaumiel unclassed visual
 [[>]]
 [[module Rate]]
 [[/>]]
