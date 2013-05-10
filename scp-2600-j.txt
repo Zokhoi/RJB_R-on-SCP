@@ -1,5 +1,5 @@
 title:SCP-2600-J
-tags:artifact joke mechanical mobile safe
+tags:artifact joke mechanical mobile safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
