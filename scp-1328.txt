@@ -1,5 +1,5 @@
 title:SCP-1328
-tags:
+tags:cognitohazard document euclid location memory-affecting mind-affecting scp teleportation visual
 [[>]]
 [[module Rate]]
 [[/>]]
