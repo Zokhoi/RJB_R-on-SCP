@@ -1,5 +1,5 @@
 title:Agent Brown and the Case of the Missing Amulet
-tags:
+tags:project_crossover tale
 [[>]]
 [[module Rate]]
 [[/>]]
