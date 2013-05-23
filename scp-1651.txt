@@ -1,5 +1,5 @@
 title:SCP-1651
-tags:cognitohazard loop safe scp toy visual
+tags:loop safe scp sensory toy visual
 [[>]]
 [[module Rate]]
 [[/>]]
