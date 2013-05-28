@@ -1,5 +1,5 @@
 title:SCP-935
-tags:
+tags:euclid game genetic inscribed scp self-repairing teleportation
 [[>]]
 [[module Rate]]
 [[/>]]
