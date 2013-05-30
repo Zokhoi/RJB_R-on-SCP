@@ -1,5 +1,5 @@
 title:SCP-1841
-tags:
+tags:artifact document knowledge safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
