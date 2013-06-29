@@ -1,5 +1,5 @@
 title:SCP-1796
-tags:container document memory-affecting meta safe scp telepathic teleportation uiu
+tags:container document memory-affecting meta safe scp telepathic teleportation unusual-incidents-unit
 [[>]]
 [[module Rate]]
 [[/>]]
