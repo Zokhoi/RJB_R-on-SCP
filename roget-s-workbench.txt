@@ -117,4 +117,3 @@ Entries Over X
 [[/div]]
 [[/tab]]
 [[/tabview]]
-[[/collapsible]]
