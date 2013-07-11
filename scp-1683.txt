@@ -1,5 +1,5 @@
 title:SCP-1683
-tags:
+tags:building cognitohazard extraterrestrial safe
 [[>]]
 [[module Rate]]
 [[/>]]
