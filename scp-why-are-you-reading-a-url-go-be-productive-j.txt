@@ -1,5 +1,5 @@
 title:SCP-5200-J
-tags:joke scp unclassed uncontained
+tags:compulsion joke mind-affecting scp unclassed uncontained
 [[>]]
 [[module Rate]]
 [[/>]]
