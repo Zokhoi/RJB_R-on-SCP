@@ -1,5 +1,5 @@
 title:SCP-2600-J
-tags:joke mechanical mobile safe scp vehicle
+tags:autonomous joke safe sapient scp sentient vehicle
 [[>]]
 [[module Rate]]
 [[/>]]
