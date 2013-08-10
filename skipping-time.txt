@@ -1,5 +1,5 @@
 title:Skipping Time
-tags:
+tags:tale tc2013
 [[>]]
 [[module Rate]]
 [[/>]]
