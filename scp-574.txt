@@ -1,4 +1,5 @@
 title:SCP-574
+tags:autonomous building ectoentropic euclid predatory scp self-replicating
 [[>]]
 [[module Rate]]
 [[/>]]
