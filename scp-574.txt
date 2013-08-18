@@ -1,5 +1,5 @@
 title:SCP-574
-tags:
+tags:building ectoentropic euclid scp self-replicating
 [[>]]
 [[module Rate]]
 [[/>]]
