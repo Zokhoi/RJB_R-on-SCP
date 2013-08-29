@@ -10,7 +10,7 @@ parent:scp-ex
 ||||~ ^^Deceased instance of SCP-2600-EX.^^ ||
 [[/div]]
 
-**Item #:**SCP-2600-EX
+**Item #:** SCP-2600-EX
 
 **Object Class:** --Safe-- Explained
 
