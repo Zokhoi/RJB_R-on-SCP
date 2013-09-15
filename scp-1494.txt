@@ -1,6 +1,6 @@
 title:SCP-1494
 tags:
->]]
+[[>]]
 [[module Rate]]
 [[/>]]
 
