@@ -1,4 +1,5 @@
 title:SCP-1508
+tags:adaptive automaton dr-wondertainment ectoentropic mechanical metamorphic neutralized safe scp toy
 [[>]]
 [[module Rate]]
 [[/>]]
