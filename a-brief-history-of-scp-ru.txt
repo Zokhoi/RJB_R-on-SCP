@@ -1,5 +1,5 @@
 title:A Brief History Of SCP-RU
-tags:
+tags:essay
 [[>]]
 [[module Rate]]
 [[/>]]
