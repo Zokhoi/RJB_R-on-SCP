@@ -1,5 +1,5 @@
 title:SCP-1559
-tags:
+tags:auditory cognitohazard document euclid scp visual
 [[>]]
 [[module Rate]]
 [[/>]]
