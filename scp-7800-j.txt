@@ -1,5 +1,5 @@
 title:SCP-7800-J
-tags:
+tags:euclid food joke scp temporal
 [[>]]
 [[module Rate]]
 [[/>]]
