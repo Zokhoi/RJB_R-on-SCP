@@ -1,5 +1,5 @@
 title:Daydreamin
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
