@@ -1,5 +1,5 @@
 title:A Brief History Of SCP-KR
-tags:
+tags:essay
 [[>]]
 [[Module Rate]]
 [[/>]]
