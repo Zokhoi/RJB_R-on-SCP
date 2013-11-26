@@ -1,5 +1,5 @@
 title:SCP-1526
-tags:
+tags:euclid exchange humanoid scp telekinetic teleportation
 [[>]]
 [[module Rate]]
 [[/>]]
