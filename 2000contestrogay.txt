@@ -1,8 +1,5 @@
 title:SCP-2000: The Empty Box
 tags:
-+ SCP-2000(2600) - The Empty Box
-
-
 [[>]]
 [[module Rate]]
 [[/>]]
