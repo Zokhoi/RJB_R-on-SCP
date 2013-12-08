@@ -1,4 +1,5 @@
 title:My Brother The Ape
+tags:lolfoundation tale
 [[>]]
 [[module Rate]]
 [[/>]]
