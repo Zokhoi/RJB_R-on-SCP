@@ -1,5 +1,5 @@
 title:Experiment Log 1528
-tags:
+tags:collaborative experiment supplement
 [[>]]
 [[module Rate]]
 [[/>]]
