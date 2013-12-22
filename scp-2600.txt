@@ -1,4 +1,5 @@
 title:SCP-2600
+tags:2000 appliance electronic euclid game humanoid mind-affecting scp
 [[>]]
 [[module Rate]]
 [[/>]]
