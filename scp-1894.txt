@@ -1,4 +1,5 @@
 title:SCP-1894
+tags:autonomous biological safe scp teleportation transfiguration vehicle
 [[>]]
 [[module Rate]]
 [[/>]]
