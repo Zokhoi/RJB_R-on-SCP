@@ -1,5 +1,5 @@
 title:When We Reach The Crescendo
-tags:
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
