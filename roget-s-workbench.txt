@@ -131,6 +131,9 @@ Entries Over X
 [[module Categories]]
 [[/tab]]
 [[tab Abandoned Pages Finder]]
+
++ 2010
+
 [[collapsible show="December" hide="hide"]]
 [[module ListPages rating=">0" order="rating desc" separate="false" limit="200" perPage="25" date="2010.12"]]
 %%title_linked%% (rating: %%rating%%, comments: %%comments%%, by //%%created_by%%//)
@@ -195,6 +198,8 @@ Entries Over X
 [[/module]]
 [[/collapsible]]
 
++ 2009
+
 [[collapsible show="December" hide="hide"]]
 [[module ListPages rating=">0" order="rating desc" separate="false" limit="200" perPage="25" date="2009.12"]]
 %%title_linked%% (rating: %%rating%%, comments: %%comments%%, by //%%created_by%%//)
@@ -258,6 +263,8 @@ Entries Over X
 %%title_linked%% (rating: %%rating%%, comments: %%comments%%, by //%%created_by%%//)
 [[/module]]
 [[/collapsible]]
+
++ 2008
 
 [[collapsible show="December" hide="hide"]]
 [[module ListPages rating=">0" order="rating desc" separate="false" limit="200" perPage="25" date="2008.12"]]
