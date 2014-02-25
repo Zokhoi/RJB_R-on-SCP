@@ -1,5 +1,5 @@
 title:SCP-332
-tags:acoustic auditory autonomous class-of-76 cognitohazard euclid humanoid mind-affecting musical scp
+tags:acoustic auditory biological class-of-76 cognitohazard euclid humanoid mind-affecting musical scp
 [[>]]
 [[module Rate]]
 [[/>]]
