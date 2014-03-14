@@ -1,5 +1,5 @@
 title:Painted Lips, Unblinking Eyes
-tags:project_crossover tale
+parent:crossoverprojectindex
 [[>]]
 [[module Rate]]
 [[/>]]
