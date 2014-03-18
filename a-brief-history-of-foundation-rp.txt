@@ -1,5 +1,5 @@
 title:A Brief History Of Foundation Rp
-tags:
+tags:essay
 [[>]]
 [[module Rate]]
 [[/>]]
