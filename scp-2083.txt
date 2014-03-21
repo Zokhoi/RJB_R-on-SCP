@@ -1,5 +1,5 @@
 title:SCP-2083
-tags:
+tags:biological building safe scp transmission
 [[>]]
 [[module Rate]]
 [[/>]]
