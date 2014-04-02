@@ -1,4 +1,5 @@
 title:SCP-2600-CU
+tags:af2014 biological hostile joke sapient scp unclassed
 [[module CSS]]
 @import url(/component:pet-theme/code/1);
 [[/module]]
