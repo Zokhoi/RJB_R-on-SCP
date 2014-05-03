@@ -1,5 +1,5 @@
 title:SCP-1723
-tags:alive auditory electromagnetic euclid gru-division-p humanoid scp sentient transmission
+tags:alive auditory electromagnetic gru-division-p humanoid safe scp sentient transmission
 [[>]]
 [[module Rate]]
 [[/>]]
