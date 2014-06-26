@@ -1,5 +1,5 @@
 title:Unusual Incidents Unit Hub
-tags:
+tags:goi2014 hub unusual-incidents-unit
 [[>]]
 [[module Rate]]
 [[/>]]
