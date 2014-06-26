@@ -1,5 +1,4 @@
 title:Unusual Incidents Unit Hub
-tags:goi2014 hub unusual-incidents-unit
 [[>]]
 [[module Rate]]
 [[/>]]
@@ -7,7 +6,7 @@ tags:goi2014 hub unusual-incidents-unit
 [[=image http://i.imgur.com/xDa43ld.png]]
 
 [[=]]
-[[size 200%]]FIDELITY, INTEGRITY, BRAVERY[[/size]]
+[[size 200%]]FIDELITY, BRAVERY, INTEGRITY[[/size]]
 [[/=]]
 [[tabview]]
 [[tab UIU File #20X6, A Formal Discussion]]
