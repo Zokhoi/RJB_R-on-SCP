@@ -1,5 +1,9 @@
 title:Unusual Incidents Unit Hub
 tags:
+[[>]]
+[[module Rate]]
+[[/>]]
+
 [[=image http://i.imgur.com/xDa43ld.png]]
 
 [[=]]
