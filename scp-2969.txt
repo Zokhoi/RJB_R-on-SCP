@@ -1,5 +1,5 @@
 title:SCP-2969
-tags:biological humanoid neurological safe sapient scp sentient
+tags:biological euclid humanoid neurological sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
