@@ -1,5 +1,5 @@
 title:Extra-Community SCP Sites Guide
-tags:
+tags:guide
 [[>]]
 [[module Rate]]
 [[/>]]
