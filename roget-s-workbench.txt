@@ -361,10 +361,10 @@ Most Recently Created Pages
 Page
 [[/cell]]
 [[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
-Comments
+Last Comment
 [[/cell]]
 [[cell style="padding: 0 2px; text-align: center;"]]
-Date Created
+Last Update
 [[/cell]]
 [[/row]]
 [[/table]]
@@ -379,10 +379,10 @@ Date Created
 %%title_linked%%
 [[/cell]]
 [[cell style="vertical-align: top; text-align: center;"]]
-%%comments%%
+%%commented_at%%
 [[/cell]]
 [[cell style="vertical-align: top; text-align: right;"]]
-%%created_at%%
+%%updated_at%%
 [[/cell]]
 [[/row]]
 [[/module]]
