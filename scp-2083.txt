@@ -1,5 +1,5 @@
 title:SCP-2083
-tags:autonomous biological building hostile humanoid safe scp transmission
+tags:autonomous biological building extremity hostile humanoid safe scp transmission
 [[>]]
 [[module Rate]]
 [[/>]]
