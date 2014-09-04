@@ -1,5 +1,5 @@
 title:SCP-821
-tags:autonomous building ectoentropic neutralized scp
+tags:autonomous building ectoentropic neutralized safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
