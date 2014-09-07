@@ -1,7 +1,5 @@
 title:Roget's Workbench
 parent:dr-rogets-file
-----
-
 + THE "NO ROGETS" CLUB
 # No Rogets allowed... evar.
 # We don't talk about The "No Rogets" Club
@@ -77,12 +75,18 @@ Last Update
 [[/div]]
 [[/div]]
 
+----
+
 [[tabview]]
+
 [[tab A-B]]
 
-[[module ListPages order="created_by" perPage="10"  separate="false" tags="tale, hub" prependLine=" " rss="Tales Page"]]
+[[module ListPages order="created_by" perPage="25" separate="false" tags="tale, hub" prependLine=" " rss="Tales Page"]] 
+
 %%author%%, __%%title_linked%%__: //%%preview(45)%%//
+
 [[/module]]
 
 [[/tab]]
+
 [[/tabview]]
