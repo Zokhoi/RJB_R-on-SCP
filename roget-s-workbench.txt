@@ -25,7 +25,7 @@ parent:dr-rogets-file
   text-align: justify;
 }
 .content-panel.content-row .content-type-description {
-  height: 550px;
+  height: 575px;
 }
 .content-panel.content-row .content-type-description-2 {
   padding: 0 20px;
