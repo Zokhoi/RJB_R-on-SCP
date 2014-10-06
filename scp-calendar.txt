@@ -1,5 +1,5 @@
 title:SCP Calendar
-tags:
+tags:admin
 parent:history-of-the-universe-hub
 [[>]]
 [[module Rate]]
