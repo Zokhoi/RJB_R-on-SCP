@@ -1,4 +1,5 @@
 title:SCP-1046
+tags:alive building euclid humanoid metamorphic scp
 [[>]]
 [[module Rate]]
 [[/>]]
