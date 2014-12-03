@@ -9,7 +9,9 @@ parent:dr-rogets-file
 ----
 + TALES PAGE PROTOTYPE by LurkD
 
-[[tabview]]
+> ++++ REFERENCE LINKS:
+> * [*http://community.wikidot.com/forum/t-1003524/listpages-module-and-tabs Wikidot Community Advice]
+> * [*http://www.wikidot.com/doc-modules:start Module Syntax]
 
 [[tab A-B]]
 
