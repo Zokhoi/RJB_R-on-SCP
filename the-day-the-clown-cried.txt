@@ -1,5 +1,5 @@
 title:The Day the Clown Cried
-tags:mister tale
+tags:_r mister tale
 [[>]]
 [[module Rate]]
 [[/>]]
