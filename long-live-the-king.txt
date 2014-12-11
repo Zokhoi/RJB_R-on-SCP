@@ -1,5 +1,5 @@
 title:Long Live The King
-tags:lolfoundation tale
+tags:_r lolfoundation tale
 [[>]]
 [[module Rate]]
 [[/>]]
