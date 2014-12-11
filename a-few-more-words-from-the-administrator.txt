@@ -1,4 +1,5 @@
 title:A Few More Words From "The Administrator"
+tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
