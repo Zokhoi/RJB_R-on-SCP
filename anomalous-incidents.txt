@@ -1,4 +1,5 @@
 title:Anomalous Incidents
+tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
