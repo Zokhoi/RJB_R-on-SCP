@@ -1,4 +1,5 @@
 title:End Of Olympians Hub
+tags:_r hub tale
 [[>]]
 [[module Rate]]
 [[/>]]
