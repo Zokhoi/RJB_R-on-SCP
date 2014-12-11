@@ -1,5 +1,5 @@
 title:Remembrance: Part One
-tags:class-of-76 tale
+tags:_r class-of-76 tale
 [[>]]
 [[module Rate]]
 [[/>]]
