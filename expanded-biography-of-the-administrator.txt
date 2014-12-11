@@ -1,4 +1,5 @@
 title:Expanded Biography of "The Administrator"
+tags:_r tale
 = ,,//Well, it all got started when I became god.//,,
 
 [[>]]
