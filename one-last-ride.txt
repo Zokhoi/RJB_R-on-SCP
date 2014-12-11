@@ -1,4 +1,5 @@
 title:One Last Ride
+tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
