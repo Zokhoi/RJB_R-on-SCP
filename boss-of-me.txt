@@ -1,5 +1,5 @@
 title:Boss of Me
-tags:tale
+tags:resurrection tale
 [[>]]
 [[module Rate]]
 [[/>]]
