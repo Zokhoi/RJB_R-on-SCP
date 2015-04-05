@@ -1,5 +1,6 @@
 title:Museum of Idiots
 tags:tale
+parent:resurrection
 [[>]]
 [[module Rate]]
 [[/>]]
