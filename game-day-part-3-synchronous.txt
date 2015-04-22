@@ -1,5 +1,5 @@
 title:Game Day Part 3: Synchronous
-tags:_r class-of-76 game_day tale
+tags:_r class-of-76 game-day tale
 parent:gamedaypart3index
 [[>]]
 [[module Rate]]
