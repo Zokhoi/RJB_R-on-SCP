@@ -1,5 +1,5 @@
 title:Museum of Idiots
-tags:_r dr-wondertainment mister resurrection tale
+tags:_r _res2 dr-wondertainment mister resurrection tale
 parent:resurrection
 [[>]]
 [[module Rate]]
