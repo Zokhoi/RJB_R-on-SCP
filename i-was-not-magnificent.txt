@@ -1,5 +1,5 @@
 title:I Was Not Magnificent
-tags:tale
+tags:resurrection tale
 parent:resurrection
 [[>]]
 [[module Rate]]
