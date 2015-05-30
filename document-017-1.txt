@@ -1,5 +1,5 @@
 title:Document #017-1
-tags:tale
+tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
