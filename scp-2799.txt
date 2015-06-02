@@ -1,5 +1,5 @@
 title:SCP-2799
-tags:hallucination instrument knowledge mind-affecting predictive scp telepathic thaumiel
+tags:co-authored hallucination instrument knowledge mind-affecting predictive scp telepathic thaumiel
 [[>]]
 [[module Rate]]
 [[/>]]
