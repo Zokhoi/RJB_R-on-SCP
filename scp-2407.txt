@@ -1,5 +1,5 @@
 title:SCP-2407
-tags:
+tags:co-authored cognitohazard euclid exchange mind-affecting scp
 [[>]]
 [[module Rate]]
 [[/>]]
