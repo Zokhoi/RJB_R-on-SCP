@@ -1,5 +1,6 @@
 title:Unusual Incident Units Case Files - Classified
 tags:tale
+parent:unusual-incidents-unit-hub
 [[>]]
 [[module Rate]]
 [[/>]]
