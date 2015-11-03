@@ -1,5 +1,5 @@
 title:SCP-512
-tags:electrical gravity safe scp tool
+tags:co-authored electrical gravity safe scp tool
 [[>]]
 [[module Rate]]
 [[/>]]
