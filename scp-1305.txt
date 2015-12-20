@@ -4,7 +4,7 @@ tags:alive animal carnivorous euclid predatory scp
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=1305.jpeg|caption=SCP-1305 during initial containment.]]
+[[include component:image-block name=1305.jpg|caption=SCP-1305 during initial containment.]]
 
 
 
