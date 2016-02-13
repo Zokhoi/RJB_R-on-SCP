@@ -1,5 +1,4 @@
 title:Extra-Community SCP Sites Guide
-tags:guide
 [[>]]
 [[module Rate]]
 [[/>]]
@@ -37,9 +36,5 @@ Once your site is linked, you will be added to the SCP International(linked) wik
 In addition, you will be given access to resources such as the SCP Foundation social media pages. We will be happy to make posts and announcements on your behalf, as long as it doesn't interfere with our regularly scheduled broadcasts. This is a privilege based on a mutually cooperative relationship between our communities, so please do not assume your community is entitled to a blank check in regards to social media promotion. Other resources, such as official announcements on our forums, will be treated in the same way.
 
 Thank you for your interest in the SCP community, and we wish you and your communities the best!
-[[/tab]]
-[[tab FAQ]]
-
-I don't actually have any questions yet, but if anyone has any questions, place them in the discussion page or in a PM to me to be answered. If you have questions about Extra-Community sites in general, or about a specific site, I will answer in the comments and may add them to this page if there are enough of them.)
 [[/tab]]
 [[/tabview]]
