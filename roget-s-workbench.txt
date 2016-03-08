@@ -1,4 +1,5 @@
 title:Rogetbox
+tags:workbench
 Modules brought to you by Trixie "Decibelle" Shimmer!
 
 (Note: URL says Roget's Workbench, --title is Lurk's Work Page--[[footnote]]WAY TO RUIN THE FUN ROGET[[/footnote]], content is Decibelle's. How curious.)
