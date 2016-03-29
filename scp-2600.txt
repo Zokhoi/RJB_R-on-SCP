@@ -1,5 +1,5 @@
 title:SCP-2600
-tags:2000 appliance electronic euclid game humanoid mind-affecting scp unusual-incidents-unit
+tags:2000 appliance electronic game humanoid keter mind-affecting scp unusual-incidents-unit
 [[>]]
 [[module Rate]]
 [[/>]]
