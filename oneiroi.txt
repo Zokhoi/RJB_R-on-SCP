@@ -1,5 +1,5 @@
 title:Oneiroi Group of Interest Hub
-tags:
+tags:hub oneiroi
 ------
 
 [[size 1.5em]] ##black| Wikipedia Article##[[/size]]
