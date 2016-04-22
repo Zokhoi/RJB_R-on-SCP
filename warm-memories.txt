@@ -1,5 +1,4 @@
 title:Warm Memories
-tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
