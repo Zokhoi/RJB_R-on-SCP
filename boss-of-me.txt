@@ -1,5 +1,4 @@
 title:Boss of Me
-tags:_r resurrection tale
 parent:resurrection
 [[>]]
 [[module Rate]]
