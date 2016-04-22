@@ -1,5 +1,4 @@
 title:The Last Word
-tags:_r hc2012 tale
 [[>]]
 [[module Rate]]
 [[/>]]
