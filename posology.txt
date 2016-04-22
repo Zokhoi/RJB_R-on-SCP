@@ -1,5 +1,4 @@
 title:Posology
-tags:_r co-authored tale
 [[>]]
 [[module Rate]]
 [[/>]]
