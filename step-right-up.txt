@@ -1,5 +1,5 @@
 title:Step Right Up!
-tags:_r tale
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
