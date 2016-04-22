@@ -1,5 +1,4 @@
 title:Meeting Of The Minds
-tags:_r prometheus tale
 [[>]]
 [[module Rate]]
 [[/>]]
