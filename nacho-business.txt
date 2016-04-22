@@ -1,5 +1,5 @@
 title:Nacho Business
-tags:_r s&c-plastics tale
+tags:s&c-plastics tale
 [[>]]
 [[module Rate]]
 [[/>]]
