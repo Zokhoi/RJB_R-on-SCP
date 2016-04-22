@@ -1,5 +1,4 @@
 title:Diary of a Young Girl
-tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
