@@ -1,5 +1,5 @@
 title:How Tightly The Coils Squeeze
-tags:_r rats-nest serpents-hand tale
+tags:rats-nest serpents-hand tale
 parent:rat-s-nest-hub
 [[>]]
 [[module Rate]]
