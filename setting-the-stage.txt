@@ -1,5 +1,4 @@
 title:Setting the Stage
-tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
