@@ -1,5 +1,4 @@
 title:The Swift Rise And Fall Of Technical Researcher David Rosen
-tags:_r tale
 + OR, HOW I LEARNED TO STOP WORRYING AND LOVE OUR TECHNICAL OVERLORD
 
 
