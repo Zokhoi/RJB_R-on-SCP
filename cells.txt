@@ -1,5 +1,5 @@
 title:Cells
-tags:_r tale
+tags:tale
 [[>]]
 [[module Rate]]
 [[/>]]
