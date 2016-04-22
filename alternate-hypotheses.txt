@@ -1,5 +1,4 @@
 title:Alternate Hypotheses
-tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
