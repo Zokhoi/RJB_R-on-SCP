@@ -1,5 +1,5 @@
 title:Prelude: First Bell
-tags:_r class-of-76 tale
+tags:class-of-76 tale
 [[>]]
 [[module Rate]]
 [[/>]]
