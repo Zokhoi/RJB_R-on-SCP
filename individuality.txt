@@ -1,5 +1,4 @@
 title:Individuality
-tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
