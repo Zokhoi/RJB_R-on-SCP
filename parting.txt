@@ -1,5 +1,4 @@
 title:Parting
-tags:_r nyc2013 tale
 [[>]]
 [[module Rate]]
 [[/>]]
