@@ -1,5 +1,4 @@
 title:Technical Orientation
-tags:_r orientation tale
 [[>]]
 [[module Rate]]
 [[/>]]
