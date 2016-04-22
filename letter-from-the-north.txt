@@ -1,5 +1,4 @@
 title:Letter from the North
-tags:_r tale
 [[>]]
 [[module Rate]]
 [[/>]]
