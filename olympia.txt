@@ -1,5 +1,5 @@
 title:Olympia
-tags:_r olympia tale
+tags:olympia tale
 [[>]]
 [[module Rate]]
 [[/>]]
