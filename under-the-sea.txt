@@ -1,5 +1,4 @@
 title:Under the Sea
-tags:_r nyc2013 tale
 [[>]]
 [[module Rate]]
 [[/>]]
