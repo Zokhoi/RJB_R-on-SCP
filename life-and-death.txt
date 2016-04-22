@@ -1,5 +1,5 @@
 title:Life and Death
-tags:_r mister tale
+tags:mister tale
 [[>]]
 [[module Rate]]
 [[/>]]
