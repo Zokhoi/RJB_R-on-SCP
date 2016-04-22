@@ -1,5 +1,4 @@
 title:Activity Documentation File 11-A
-tags:_r oneiroi tale
 [[>]]
 [[module Rate]]
 [[/>]]
