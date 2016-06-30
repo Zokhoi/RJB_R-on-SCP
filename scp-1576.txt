@@ -1,4 +1,5 @@
 title:SCP-1576
+tags:artifact auditory contagion euclid hallucination historical mechanical scp telepathic transfiguration
 [[>]]
 [[module Rate]]
 [[/>]]
