@@ -1,5 +1,5 @@
 title:Roget's Proposal
-tags:container k-class-scenario scp sensory spacetime structure thaumiel visual
+tags:001-proposal container k-class-scenario scp sensory spacetime structure thaumiel visual
 parent:scp-001
 [[>]]
 [[module Rate]]
