@@ -1,5 +1,5 @@
 title:Innocence
-tags:tale
+tags:d-con2016 tale
 [[>]]
 [[module Rate]]
 [[/>]]
