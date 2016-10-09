@@ -1,5 +1,5 @@
 title:Step Right Up!
-tags:tale
+tags:david-rosen tale
 [[>]]
 [[module Rate]]
 [[/>]]
