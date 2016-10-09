@@ -1,4 +1,5 @@
 title:SCP-2322
+tags:building director-gillespie euclid loop mimetic portal predictive scp
 [[>]]
 [[module Rate]]
 [[/>]]
