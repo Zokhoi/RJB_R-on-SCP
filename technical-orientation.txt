@@ -1,4 +1,5 @@
 title:Technical Orientation
+tags:orientation researcher-rosen tale
 [[>]]
 [[module Rate]]
 [[/>]]
