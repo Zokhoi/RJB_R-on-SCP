@@ -1,5 +1,5 @@
 title:Painted Lips, Unblinking Eyes
-tags:david-rosen project-crossover tale
+tags:project-crossover rosen tale
 parent:crossoverprojectindex
 [[>]]
 [[module Rate]]
