@@ -1,5 +1,5 @@
 title:Cells
-tags:tale
+tags:director-gillespie tale
 [[>]]
 [[module Rate]]
 [[/>]]
