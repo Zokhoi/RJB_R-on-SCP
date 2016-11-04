@@ -1,5 +1,5 @@
 title:Secure Facility Dossier: Site-77
-tags:
+tags:hub site
 [[>]]
 [[module Rate]]
 [[/>]]
