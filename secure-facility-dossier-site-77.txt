@@ -6,7 +6,6 @@ tags:
 
 [[div style="center no-repeat ; float: center; border: solid 2px #000000; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]] 
 
-[[include component:image-block name=site.jpg|caption=Site-77. Click to enlarge.|link="*/local--files/secure-facility-dossier-site-77/site.jpg"]]
 
 [[=]]
 + SCP Foundation Secure Facility Dossier
@@ -15,6 +14,9 @@ tags:
 
 **Site Identification Code:** EUITLA-Site-77
 [[/=]]
+
+[[include component:image-block name=site.jpg|caption=Site-77. Click to enlarge.|link="*/local--files/secure-facility-dossier-site-77/site.jpg"]]
+
 ----
 [[=]]
 ++ General Information
