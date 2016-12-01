@@ -1,5 +1,6 @@
 title:Where Your Eyes Don't Go
 tags:director-gillespie researcher-rosen resurrection tale
+parent:resurrection
 [[>]]
 [[module Rate]]
 [[/>]]
