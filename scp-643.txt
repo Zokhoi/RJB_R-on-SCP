@@ -1,5 +1,5 @@
 title:SCP-643
-tags:autonomous compulsion crosslink food mind-affecting olfactory safe scp
+tags:autonomous compulsion food mind-affecting olfactory safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
