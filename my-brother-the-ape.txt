@@ -1,5 +1,5 @@
 title:My Brother The Ape
-tags:lolfoundation tale
+tags:doctor-bright lolfoundation tale
 [[>]]
 [[module Rate]]
 [[/>]]
