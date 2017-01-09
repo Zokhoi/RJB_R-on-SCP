@@ -1,5 +1,5 @@
 title:I Was Not Magnificent
-tags:director-gillespie resurrection tale
+tags:director-gillespie doctor-light resurrection tale
 parent:resurrection
 [[>]]
 [[module Rate]]
