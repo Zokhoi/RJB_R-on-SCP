@@ -1,5 +1,5 @@
 title:New Technical Issues
-tags:collaboration joke researcher-rosen tale
+tags:collaboration doctor-bright joke researcher-rosen tale
 [[>]]
 [[module Rate]]
 [[/>]]
