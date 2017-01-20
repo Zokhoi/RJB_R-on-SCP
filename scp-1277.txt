@@ -4,7 +4,7 @@ tags:alive auditory cactaceous humanoid plant safe scp sentient skeletal
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=1277.jpg|caption=SCP-1277 during initial containment. SCP-1277-1 is not visible.]]
+
 
 
 **Item #:** SCP-1277
