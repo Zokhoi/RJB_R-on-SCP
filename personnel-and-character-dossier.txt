@@ -1,4 +1,5 @@
 title:Personnel And Character Dossier
+tags:collaboration hub
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 [[f>image http://scp-wiki.wdfiles.com/local--files/amnestic-orientation-manual/logo.png width="160px"]]
 
