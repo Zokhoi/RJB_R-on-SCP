@@ -1,5 +1,5 @@
 title:Personnel And Character Dossier
-tags:collaboration guide hub
+tags:collaboration hub
 [[div style="background-color:#8B0000"]]
 [[=]]
 + [[span style="color:white"]]**FOUNDATION INTERNAL DOSSIER**[[/span]]
