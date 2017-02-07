@@ -8,6 +8,10 @@ tags:workbench
 @@@@
 @@@@
 
+[[=]]
+[[image this_is_where_the_header_will_go.png]]
+[[/=]]
+
 [[div class="content-panel standalone series"]]
 [[=]]
 + The SCP Foundation Visual Records is now off-site!
