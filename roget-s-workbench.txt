@@ -9,7 +9,7 @@ tags:workbench
 @@@@
 
 [[=]]
-[[image this_is_where_the_header_will_go.png]]
+[[image art_hub_warning.gif]]
 [[/=]]
 
 ----
