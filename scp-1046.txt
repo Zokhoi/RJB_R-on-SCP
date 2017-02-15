@@ -1,5 +1,5 @@
 title:SCP-1046
-tags:alive euclid humanoid metamorphic scp
+tags:alive crosslink euclid humanoid metamorphic scp
 [[>]]
 [[module Rate]]
 [[/>]]
