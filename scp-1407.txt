@@ -1,5 +1,5 @@
 title:SCP-1407
-tags:acoustic artifact electronic euclid parasitic scp self-replicating
+tags:acoustic artifact crosslink electronic euclid parasitic scp self-replicating
 [[>]]
 [[module Rate]]
 [[/>]]
