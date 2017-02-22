@@ -1,5 +1,5 @@
 title:SCP-2895
-tags:
+tags:alive arthropod biohazard euclid scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
