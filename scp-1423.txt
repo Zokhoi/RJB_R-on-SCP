@@ -1,5 +1,5 @@
 title:SCP-1423
-tags:addictive class-of-76 cognitohazard document media memory-affecting observational safe scp visual
+tags:addictive class-of-76 cognitohazard crosslink document media memory-affecting observational safe scp visual
 [[>]]
 [[module Rate]]
 [[/>]]
