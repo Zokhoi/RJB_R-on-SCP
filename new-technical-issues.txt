@@ -1071,7 +1071,7 @@ Dr. Joe
 
 //-Researcher Steward Pid//
 
-> http://www.mspaintadventures.com/storyfiles/hs2/scraps/whatdidyoudo.gif
+> [[image http://www.mspaintadventures.com/storyfiles/hs2/scraps/whatdidyoudo.gif]]
 > 
 > ~Rosen
 
