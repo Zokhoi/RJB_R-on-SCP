@@ -1,5 +1,4 @@
 title:SCP-1413
-tags:crosslink euclid mind-affecting observational scp sport transmission
 [[>]]
 [[module Rate]]
 [[/>]]
