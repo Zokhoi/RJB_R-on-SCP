@@ -1,5 +1,5 @@
 title:3000contesthub
-tags:
+tags:3000 contest hub
 [[=]]
 
 [[image http://scpsandbox2.wdfiles.com/local--files/cyantrii/header.gif]]
