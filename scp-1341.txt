@@ -1,5 +1,5 @@
 title:SCP-1341
-tags:container ectoentropic euclid glass plant scp simian
+tags:container crosslink ectoentropic euclid glass plant scp simian
 [[>]]
 [[module Rate]]
 [[/>]]
