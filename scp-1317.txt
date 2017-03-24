@@ -1,5 +1,5 @@
 title:SCP-1317
-tags:addictive chemical crosslink factory safe scp
+tags:addictive chemical factory safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
