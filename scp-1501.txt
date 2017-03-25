@@ -1,5 +1,5 @@
 title:SCP-1501
-tags:automaton crosslink engraved euclid humanoid manna-charitable-foundation mechanical scp sentient
+tags:automaton engraved euclid humanoid manna-charitable-foundation mechanical scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
