@@ -1,4 +1,5 @@
 title:SCP-7800-J
+tags:crosslink euclid food joke scp temporal
 [[>]]
 [[module Rate]]
 [[/>]]
