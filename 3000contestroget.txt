@@ -1,4 +1,5 @@
 title:SCP-3000 - Twice The Number One
+tags:3000 scp
 [[>]]
 [[module Rate]]
 [[/>]]
