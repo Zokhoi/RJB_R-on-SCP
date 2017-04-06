@@ -1,5 +1,5 @@
 title:Job Offer
-tags:factory goi-format
+tags:factory tale
 [[>]]
 [[module Rate]]
 [[/>]]
