@@ -1,5 +1,5 @@
 title:Mystery Skipper Theater 3000
-tags:project-crossover tale
+parent:crossoverprojectindex
 [[>]]
 [[module Rate]]
 [[/>]]
