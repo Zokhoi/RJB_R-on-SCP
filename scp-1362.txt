@@ -1,5 +1,5 @@
 title:SCP-1362
-tags:crosslink ectoentropic euclid gaseous hive-mind humanoid location scp sentient transmission
+tags:ectoentropic euclid gaseous hive-mind humanoid location scp sentient transmission
 [[>]]
 [[module Rate]]
 [[/>]]
