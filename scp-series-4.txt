@@ -1,5 +1,4 @@
 title:SCP Series 4
-tags:hub
 > + SERIES IV IS NOT YET OPEN FOR NEW ENTRIES. FILL UP SERIES III FIRST. CONTEST WINNERS MAY MOVE TO THEIR SPOTS AFTER THE WINNER IS DECLARED.
 
 [[div class="content-panel standalone series"]]
@@ -10,7 +9,7 @@ tags:hub
 [/scp-series-4#list List of SCPs]
 [/scp-series 001-999]
 [/scp-series-2 1000-1999]
-[/scp-series-2 2000-2999]
+[/scp-series-3 2000-2999]
 [/scp-series-4#3000 3000 to 3099]
 [/scp-series-4#3100 3100 to 3199]
 [/scp-series-4#3200 3200 to 3299]
