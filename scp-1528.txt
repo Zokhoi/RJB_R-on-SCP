@@ -1,5 +1,5 @@
 title:SCP-1528
-tags:artifact co-authored liquid mind-affecting safe scp
+tags:artifact co-authored crosslink liquid mind-affecting safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
