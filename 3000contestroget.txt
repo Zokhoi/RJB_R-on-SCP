@@ -1,5 +1,5 @@
 title:SCP-3000 - Twice The Number One
-tags:3000 scp
+tags:3000 contagion euclid observational online recording scp
 [[>]]
 [[module Rate]]
 [[/>]]
