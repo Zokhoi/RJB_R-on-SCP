@@ -1,5 +1,5 @@
 title:SCP-1724
-tags:artifact cognitohazard fifthist safe scp teleportation
+tags:artifact cognitohazard crosslink fifthist safe scp teleportation
 [[>]]
 [[module Rate]]
 [[/>]]
