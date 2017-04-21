@@ -1,4 +1,4 @@
-title:SCP-3005
+title:SCP-3006
 tags:3000 contagion euclid observational online recording scp
 [[>]]
 [[module Rate]]
