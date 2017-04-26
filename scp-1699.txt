@@ -1,5 +1,5 @@
 title:SCP-1699
-tags:crosslink euclid geological location sapient scp sentient
+tags:euclid geological location sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
