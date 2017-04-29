@@ -1,5 +1,4 @@
 title:SCP-1611
-tags:building crosslink euclid humanoid sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
