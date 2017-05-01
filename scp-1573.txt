@@ -1,5 +1,4 @@
 title:SCP-1573
-tags:auditory city crosslink hallucination humanoid location mind-affecting reproductive safe scp sculpture transfiguration visual
 [[>]]
 [[module Rate]]
 [[/>]]
