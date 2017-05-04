@@ -1,5 +1,5 @@
 title:SCP-1725
-tags:appliance artistic crosslink marshall-carter-and-dark safe scp transfiguration
+tags:appliance artistic marshall-carter-and-dark safe scp transfiguration
 [[>]]
 [[module Rate]]
 [[/>]]
