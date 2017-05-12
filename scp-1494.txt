@@ -1,5 +1,5 @@
 title:SCP-1494
-tags:airborne euclid extradimensional scp structure
+tags:airborne crosslink euclid extradimensional scp structure
 [[>]]
 [[module Rate]]
 [[/>]]
