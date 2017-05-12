@@ -1,5 +1,5 @@
 title:SCP-1841
-tags:crosslink document knowledge safe scp sleep telepathic
+tags:document knowledge safe scp sleep telepathic
 [[>]]
 [[module Rate]]
 [[/>]]
