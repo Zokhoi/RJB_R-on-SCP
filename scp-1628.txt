@@ -1,5 +1,5 @@
 title:SCP-1628
-tags:automaton autonomous city euclid historical humanoid loop scp structure subterranean
+tags:automaton autonomous city crosslink euclid historical humanoid loop scp structure subterranean
 [[>]]
 [[module Rate]]
 [[/>]]
