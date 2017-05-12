@@ -1,5 +1,5 @@
 title:SCP-1622-J
-tags:adaptive food indestructible joke plant scp unclassed
+tags:adaptive crosslink food indestructible joke plant scp unclassed
 [[>]]
 [[module Rate]]
 [[/>]]
