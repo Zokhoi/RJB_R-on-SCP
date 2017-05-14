@@ -1,5 +1,5 @@
 title:SCP-1636
-tags:biological humanoid indestructible safe scp self-repairing
+tags:biological crosslink humanoid indestructible safe scp self-repairing
 [[>]]
 [[module Rate]]
 [[/>]]
