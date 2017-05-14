@@ -1,5 +1,5 @@
 title:SCP-1613
-tags:document euclid inscribed scp
+tags:crosslink document euclid inscribed scp
 [[>]]
 [[module Rate]]
 [[/>]]
