@@ -4,8 +4,6 @@ tags:ectoentropic euclid gaseous hive-mind humanoid location scp sentient transm
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=Smokeman.jpg|caption=Documentation of SCP-1362-1.]]
-
 
 **Item #:** SCP-1362
 
