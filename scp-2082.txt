@@ -1,5 +1,4 @@
 title:SCP-2082
-tags:animal autonomous crosslink historical neutralized reanimation scp thermal unclassed
 [[>]]
 [[module Rate]]
 [[/>]]
