@@ -1,5 +1,4 @@
 title:SCP-2088
-tags:crosslink euclid extraterrestrial marshall-carter-and-dark performance satellite scp
 [[>]]
 [[module Rate]]
 [[/>]]
