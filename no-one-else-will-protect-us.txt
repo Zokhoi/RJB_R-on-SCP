@@ -1,4 +1,5 @@
 title:No One Else Will Protect Us
+tags:lolfoundation tale the-administrator
 [[>]]
 [[module Rate]]
 [[/>]]
