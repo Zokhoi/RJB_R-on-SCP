@@ -1,5 +1,5 @@
 title:SCP-2489
-tags:autonomous ectoentropic euclid historical humanoid mechanical scp
+tags:_image autonomous ectoentropic euclid historical humanoid mechanical scp
 [[>]]
 [[module Rate]]
 [[/>]]
