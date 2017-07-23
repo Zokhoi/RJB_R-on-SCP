@@ -1,5 +1,5 @@
 title:SCP-1797-J
-tags:artistic historical joke metamorphic safe scp sexual
+tags:_image artistic historical joke metamorphic safe scp sexual
 [[>]]
 [[module Rate]]
 [[/>]]
