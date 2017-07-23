@@ -1,4 +1,5 @@
 title:Oneiroi Group of Interest Hub
+tags:_image hub oneiroi
 [[>]]
 [[module Rate]]
 [[/>]]
