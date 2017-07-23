@@ -1,4 +1,5 @@
 title:SCP-2379
+tags:_image addictive compulsion fungus keter meteorological prometheus scp species
 [[>]]
 [[module Rate]]
 [[/>]]
