@@ -1,4 +1,5 @@
 title:SCP-3792
+tags:_image amorphous container ectoentropic gaseous humanoid safe scp tactile transfiguration
 [[>]]
 [[module Rate]]
 [[/>]]
