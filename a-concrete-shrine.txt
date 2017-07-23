@@ -1,4 +1,5 @@
 title:A Concrete Shrine
+tags:173fest _image tale
 [[>]]
 [[module Rate]]
 [[/>]]
