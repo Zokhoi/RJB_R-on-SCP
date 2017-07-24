@@ -1,4 +1,5 @@
 title:Dr. Roget's Personnel File
+tags:_image author
 [[>]]
 [[module Rate]]
 [[/>]]
