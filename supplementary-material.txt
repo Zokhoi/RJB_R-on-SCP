@@ -1,5 +1,5 @@
 title:Supplementary Material
-parent:history-of-the-universe-hub
+tags:_image essay
 [[tabview]]
 [[tab + References]]
 
