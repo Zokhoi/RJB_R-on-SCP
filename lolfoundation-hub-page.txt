@@ -1,6 +1,5 @@
 title:lolFoundation Hub Page
-tags:collaboration hub lolfoundation tale
-parent:canon-hub
+tags:_image collaboration hub lolfoundation tale
 [[>]]
 [[module Rate]]
 [[/>]]
