@@ -1,4 +1,5 @@
 title:SCP-1853
+tags:_image artifact chemical liquid prometheus safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
