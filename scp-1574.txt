@@ -1,5 +1,5 @@
 title:SCP-1574
-tags:airborne autonomous cognitohazard extraterrestrial keter metamorphic scp sphere transmission uncontained visual
+tags:_image airborne autonomous cognitohazard extraterrestrial keter metamorphic scp sphere transmission uncontained visual
 [[>]]
 [[module Rate]]
 [[/>]]
