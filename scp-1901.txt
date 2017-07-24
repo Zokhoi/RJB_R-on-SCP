@@ -1,5 +1,5 @@
 title:SCP-1901
-tags:artifact cognitohazard euclid sapient scp sensory sentient visual
+tags:_image artifact cognitohazard euclid sapient scp sensory sentient visual
 [[>]]
 [[module Rate]]
 [[/>]]
