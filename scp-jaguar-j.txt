@@ -1,5 +1,5 @@
 title:SCP-Jaguar-J
-tags:_image joke k-class-scenario meta safe scp vehicle
+tags:_cc joke k-class-scenario meta safe scp vehicle
 [[>]]
 [[module Rate]]
 [[/>]]
