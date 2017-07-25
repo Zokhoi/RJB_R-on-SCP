@@ -1,5 +1,5 @@
 title:Roget Artwork Page
-tags:_image artwork
+tags:_cc artwork
 [[>]]
 [[module Rate]]
 [[/>]]
