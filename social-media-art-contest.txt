@@ -1,5 +1,5 @@
 title:Social Media Art Contest
-tags:_image contest
+tags:_cc contest
 [[=]]
 [[image artcontestposter.png]]
 [[/=]]
