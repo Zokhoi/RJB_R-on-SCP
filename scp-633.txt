@@ -1,5 +1,5 @@
 title:SCP-633
-tags:
+tags:_image chemical computer contagion sapient scp self-replicating sentient unusual-incidents-unit
 [[>]]
 [[module Rate]]
 [[/>]]
