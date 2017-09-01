@@ -1,5 +1,5 @@
 title:SCP-3776
-tags:
+tags:class-of-76 euclid mind-affecting
 [[>]]
 [[module Rate]]
 [[/>]]
