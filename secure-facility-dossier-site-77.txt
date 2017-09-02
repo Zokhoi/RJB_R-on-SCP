@@ -108,7 +108,7 @@ tags:_image director-gillespie hub site
 
 **Site Director:** Dr. Shirley Gillespie
 
-**Asst. Site Director:** Dr. Ralph Roget
+**Deputy Site Director:** [[[Dr. Ralph Roget
 
 **Asst. Dir. of Personnel:** Wade Quincy
 
@@ -123,6 +123,8 @@ tags:_image director-gillespie hub site
 **Asst. Dir. of Security:** Theodore Anderson
 
 **Asst. Dir. of Human Resources:** Mary Guild
+
+**On-Site Psychologist:** [[[dr-roth-personnel-file| Dr. Roth]]]
 
 **On-Site Personnel:**
 
