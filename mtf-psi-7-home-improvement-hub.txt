@@ -1,4 +1,5 @@
 title:Mobile Task Force Psi-7 "Home Improvement" Hub
+tags:_cc hub
 [[>]]
 [[module Rate]]
 [[/>]]
