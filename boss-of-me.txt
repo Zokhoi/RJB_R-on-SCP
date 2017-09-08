@@ -1,6 +1,5 @@
 title:Boss of Me
 tags:director-gillespie resurrection tale
-parent:resurrection
 [[>]]
 [[module Rate]]
 [[/>]]
@@ -152,3 +151,8 @@ Ralph smiled. "How long do you think you'll be gone for?"
 "Don't worry about things. Are you ready to go?"
 
 Gillespie snapped her suitcase shut. "I am."
+
+
+[[=]]
+**<< [[[SCP-2322| Who Am I?]]] | [[[Resurrection]]] | [[[I Was Not Magnificent]]] >>**
+[[/=]]
