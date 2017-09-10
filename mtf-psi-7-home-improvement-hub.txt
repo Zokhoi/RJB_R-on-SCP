@@ -153,6 +153,10 @@ tags:_cc hub
 
 **Linguistics Special Agent:** Joseph Lanning
 
+**Architectural Inspection Agent:** Fiere Mekonap
+
+**Ranged Explosive Special Agent:** Tony Atkinson
+
 **On-Staff Psychologist:** [[[dr-roth-personnel-file| Dr. Blaire Roth]]]
 
 **Task Force Personnel Breakdown:**
