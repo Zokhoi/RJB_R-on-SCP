@@ -1,5 +1,5 @@
 title:SCP-1976
-tags:alive class-of-76 cognitohazard humanoid memory-affecting mind-affecting safe scp sensory visual
+tags:alive class-of-76 cognitohazard crosslink humanoid memory-affecting mind-affecting safe scp sensory visual
 [[>]]
 [[module Rate]]
 [[/>]]
