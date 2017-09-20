@@ -1,5 +1,5 @@
 title:SCP-1967
-tags:_image crosslink euclid extradimensional location scp spacetime
+tags:_image euclid extradimensional location scp spacetime
 [[>]]
 [[module Rate]]
 [[/>]]
