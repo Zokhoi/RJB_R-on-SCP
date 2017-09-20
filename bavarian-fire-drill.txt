@@ -1,5 +1,5 @@
 title:Bavarian Fire Drill
-tags:tale
+tags:chaos-insurgency tale
 [[>]]
 [[module Rate]]
 [[/>]]
