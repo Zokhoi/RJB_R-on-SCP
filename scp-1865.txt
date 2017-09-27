@@ -4,9 +4,6 @@ tags:_image alive aquatic biological clothing co-authored safe scp
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=http://www.scp-wiki.net/local--files/scp-1865/1865.png|caption=The diving suit containing SCP-1865.]]
-
-
 **Item #:** SCP-1865
 
 **Object Class:** Safe
