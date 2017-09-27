@@ -1,5 +1,5 @@
 title:SCP Calendar
-tags:_image admin
+tags:_cc admin
 [[>]]
 [[module Rate]]
 [[/>]]
