@@ -1,5 +1,4 @@
 title:SCP Series 4
-tags:deletion for marked
 [[div class="content-panel standalone series"]]
 
 [[div class="content-toc"]]
