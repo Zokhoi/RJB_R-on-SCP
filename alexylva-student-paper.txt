@@ -1,5 +1,5 @@
 title:ALEXYLVA PUBLICATION ARCHIVE - NEWSPRINT
-tags:_cc alexylva goi-format oneiroi
+tags:_alexylva _cc alexylva goi-format oneiroi
 [[>]]
 [[module Rate]]
 [[/>]]
