@@ -1,5 +1,5 @@
 title:SCP-4000: History, Together
-tags:
+tags:4000
 [[>]]
 [[module Rate]]
 [[/>]]
