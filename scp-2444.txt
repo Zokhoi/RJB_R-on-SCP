@@ -1,5 +1,5 @@
 title:SCP-2444
-tags:
+tags:_image building euclid exchange extradimensional scp sleep
 [[>]]
 [[module Rate]]
 [[/>]]
