@@ -1,5 +1,5 @@
 title:GRU Division "P" Hub
-tags:gru-p hub
+tags:gru-division-p hub
 [[>]]
 [[module Rate]]
 [[/>]]
