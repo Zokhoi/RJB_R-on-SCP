@@ -1,5 +1,5 @@
 title:Bewitched, Bothered and Bewildered
-tags:tale
+tags:researcher-rosen tale
 [[>]]
 [[module Rate]]
 [[/>]]
