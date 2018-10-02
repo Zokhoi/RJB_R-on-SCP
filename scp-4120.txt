@@ -1,5 +1,5 @@
 title:SCP-4120
-tags:
+tags:_image animal canine euclid probability scp
 [[>]]
 [[module Rate]]
 [[/>]]
