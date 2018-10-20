@@ -1,5 +1,5 @@
 title:I Was Not Magnificent
-tags:director-gillespie doctor-light resurrection tale
+tags:director-gillespie doctor-light doctor-roget resurrection tale
 [[>]]
 [[module Rate]]
 [[/>]]
