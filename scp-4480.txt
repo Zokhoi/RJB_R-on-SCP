@@ -1,5 +1,5 @@
 title:SCP-4480
-tags:
+tags:cliche2019
 [[>]]
 [[module Rate]]
 [[/>]]
