@@ -1,5 +1,5 @@
 title:SCP-4480
-tags:asci cliche2019 co-authored
+tags:cliche2019 co-authored
 [[>]]
 [[module Rate]]
 [[/>]]
