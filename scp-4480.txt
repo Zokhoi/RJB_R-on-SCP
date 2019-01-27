@@ -1,5 +1,5 @@
 title:SCP-4480
-tags:cliche2019 co-authored
+tags:asci cliche2019 co-authored humanoid scp
 [[>]]
 [[module Rate]]
 [[/>]]
