@@ -1,5 +1,5 @@
 title:SCP-3482
-tags:adaptive location manna-charitable-foundation marshall-carter-and-dark scp thaumiel wilsons-wildlife
+tags:adaptive co-authored location manna-charitable-foundation marshall-carter-and-dark scp thaumiel wilsons-wildlife
 [[>]]
 [[module Rate]]
 [[/>]]
