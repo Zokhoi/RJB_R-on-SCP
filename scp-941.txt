@@ -1,5 +1,5 @@
 title:SCP-941
-tags:
+tags:airborne computer contagion euclid interactive mechanical scp vehicle
 [[>]]
 [[module Rate]]
 [[/>]]
