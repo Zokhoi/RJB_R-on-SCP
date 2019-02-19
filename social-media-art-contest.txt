@@ -1,5 +1,6 @@
 title:Social Media Art Contest
 tags:_cc art2017 artwork contest
+parent:contest-archive
 [[=]]
 [[image artcontestposter.png]]
 [[/=]]
