@@ -1,5 +1,6 @@
 title:SCP-3000 Contest
 tags:3000 _cc contest hub
+parent:contest-archive
 [[=]]
 
 [[image cyantreusemadethishorrorheaderbb.gif]]
