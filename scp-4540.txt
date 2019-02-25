@@ -1,5 +1,5 @@
 title:SCP-4540
-tags:4000 aquatic artifact auditory esoteric-class glass hallucination historical mechanical scp visual
+tags:4000 _image aquatic artifact auditory esoteric-class glass hallucination historical mechanical scp visual
 [[>]]
 [[module Rate]]
 [[/>]]
