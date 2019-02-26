@@ -1,5 +1,7 @@
 title:New Pages Feed
-tags:hub
+Original feed can be found [[[most-recently-created| Here]]].
+
+
 [[module CSS]]
 .content-panel .content-type-title > p {
     margin: 0;
