@@ -1,5 +1,5 @@
 title:New Pages Feed
-tags:
+tags:hub
 [[module CSS]]
 .content-panel .content-type-title > p {
     margin: 0;
