@@ -1,5 +1,5 @@
 title:SCP-1927-EX
-tags:
+tags:explained scp
 [[>]]
 [[module Rate]]
 [[/>]]
