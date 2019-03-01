@@ -1,5 +1,5 @@
 title:SCP-4697
-tags:
+tags:acoustic building humanoid observational safe scp visual
 [[>]]
 [[module Rate]]
 [[/>]]
