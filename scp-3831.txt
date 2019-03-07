@@ -1,5 +1,5 @@
 title:SCP-3831
-tags:
+tags:_cc
 [[>]]
 [[module Rate]]
 [[/>]]
