@@ -4,10 +4,6 @@ tags:_image building memory-affecting mind-affecting religious safe scp
 [[module Rate]]
 [[/>]]
 
-
-[[include component:image-block name=4326.png
-|caption=SCP-4326|width=300px]]
-
 **Item#:** SCP-4326
 
 **Object Class:** Safe
