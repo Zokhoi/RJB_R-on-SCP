@@ -1,5 +1,5 @@
 title:SCP-4480
-tags:_image asci biological cliche2019 co-authored contagion doctor-roget hostile humanoid keter metamorphic sapient scp sentient
+tags:_cc asci biological cliche2019 co-authored contagion doctor-roget hostile humanoid keter metamorphic sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
