@@ -1,5 +1,4 @@
 title:SCP-4326
-tags:_image building memory-affecting mind-affecting religious safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
