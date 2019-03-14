@@ -1,5 +1,5 @@
 title:SCP-474
-tags:_all-a-dream jamcon-2019
+tags:_all-a-dream jam-con2019
 [[>]]
 [[module Rate]]
 [[/>]]
