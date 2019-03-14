@@ -1,5 +1,5 @@
 title:SCP-3831
-tags:_cc
+tags:_cc audio cognitohazard electronic euclid location mind-affecting scp
 [[>]]
 [[module Rate]]
 [[/>]]
