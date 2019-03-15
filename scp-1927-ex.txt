@@ -1,5 +1,6 @@
 title:SCP-1927-EX
 tags:_cc co-authored electronic explained media observational scp transmission
+parent:scp-ex
 [[>]]
 [[module Rate]]
 [[/>]]
