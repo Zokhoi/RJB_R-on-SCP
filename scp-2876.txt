@@ -1,5 +1,5 @@
 title:SCP-2876
-tags:_image computer euclid oneiroi online scp sleep
+tags:_cc computer euclid oneiroi online scp sleep
 [[>]]
 [[module Rate]]
 [[/>]]
