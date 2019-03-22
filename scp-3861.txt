@@ -1,5 +1,5 @@
 title:SCP-3861
-tags:_image document euclid hallucination memory-affecting observational scp
+tags:_cc document euclid hallucination memory-affecting observational scp
 [[>]]
 [[module Rate]]
 [[/>]]
