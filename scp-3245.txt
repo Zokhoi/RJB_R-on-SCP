@@ -1,5 +1,5 @@
 title:SCP-3245
-tags:_image biological euclid game gamers-against-weed herman-fuller humanoid mister sapient scp sentient
+tags:_cc biological euclid game gamers-against-weed herman-fuller humanoid mister sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
