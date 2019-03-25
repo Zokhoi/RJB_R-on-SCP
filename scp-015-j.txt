@@ -1,4 +1,5 @@
 title:SCP-015-J
+tags:_cc animal euclid food joke ophidian scp
 [[>]]
 [[module Rate]]
 [[/>]]
