@@ -1,5 +1,6 @@
 title:History Of The Universe Hub
 tags:essay hub
+parent:guide-hub
 [[module ListUsers users="."]]
 Welcome, %%title%%!
 [[/module]]
