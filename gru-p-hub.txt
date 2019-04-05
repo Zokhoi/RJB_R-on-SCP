@@ -1,5 +1,5 @@
 title:GRU Division "P" Hub
-tags:_image gru-division-p hub
+tags:_cc gru-division-p hub
 [[>]]
 [[module Rate]]
 [[/>]]
