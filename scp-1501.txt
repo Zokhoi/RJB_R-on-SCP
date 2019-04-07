@@ -1,5 +1,5 @@
 title:SCP-1501
-tags:_image automaton engraved euclid humanoid manna-charitable-foundation mechanical scp sentient
+tags:_cc automaton engraved euclid humanoid manna-charitable-foundation mechanical scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
