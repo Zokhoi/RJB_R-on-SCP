@@ -1,5 +1,5 @@
 title:SCP-1507
-tags:_image acoustic artifact autonomous avian euclid scp swarm
+tags:_cc acoustic artifact autonomous avian euclid scp swarm
 [[>]]
 [[module Rate]]
 [[/>]]
