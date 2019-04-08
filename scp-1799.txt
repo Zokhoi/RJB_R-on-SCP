@@ -1,5 +1,5 @@
 title:SCP-1799
-tags:_image alive auditory dr-wondertainment humanoid mind-affecting mister safe scp
+tags:_cc alive auditory dr-wondertainment humanoid mind-affecting mister safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
