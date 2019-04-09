@@ -1,5 +1,5 @@
 title:Unusual Incidents Unit Hub
-tags:_image goi2014 hub unusual-incidents-unit
+tags:_cc goi2014 hub unusual-incidents-unit
 parent:groups-of-interest
 [[>]]
 [[module Rate]]
