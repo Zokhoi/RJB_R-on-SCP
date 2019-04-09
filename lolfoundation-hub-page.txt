@@ -1,5 +1,5 @@
 title:lolFoundation Hub Page
-tags:_image _tale-hub collaboration hub lolfoundation
+tags:_cc _tale-hub collaboration hub lolfoundation
 [[>]]
 [[module Rate]]
 [[/>]]
