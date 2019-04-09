@@ -1,5 +1,5 @@
 title:Oneiroi Group of Interest Hub
-tags:_image hub oneiroi
+tags:_cc hub oneiroi
 parent:groups-of-interest
 [[>]]
 [[module Rate]]
