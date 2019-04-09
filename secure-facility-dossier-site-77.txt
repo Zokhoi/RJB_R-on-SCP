@@ -1,5 +1,5 @@
 title:Secure Facility Dossier: Site-77
-tags:_image director-gillespie hub site
+tags:_cc director-gillespie hub site
 [[>]]
 [[module Rate]]
 [[/>]]
