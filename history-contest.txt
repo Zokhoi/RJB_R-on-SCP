@@ -1,5 +1,5 @@
 title:This Contest Is History!
-tags:_image contest hiscon2017 hub
+tags:_cc contest hiscon2017 hub
 [[div style="background-color: #fffff0; font-size: 150%; border: solid 1px #cc0000; border-radius: 10px; text-align: center; width: 400px; margin: 0 auto;"]]
 Congratulations to the following for winning in their respective categories:
 
