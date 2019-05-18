@@ -1,5 +1,5 @@
 title:SCP-4572
-tags:adaptive building empathic euclid indestructible location loop memory-affecting scp self-repairing sport
+tags:_cc adaptive building empathic euclid indestructible location loop memory-affecting scp self-repairing sport
 [[>]]
 [[module Rate]]
 [[/>]]
