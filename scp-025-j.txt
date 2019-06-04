@@ -1,4 +1,5 @@
 title:SCP-025-J
+tags:_cc container esoteric-class foundation-made joke liquid scp
 [[>]]
 [[module Rate]]
 [[/>]]
