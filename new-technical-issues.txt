@@ -1,5 +1,5 @@
 title:New Technical Issues
-tags:_image collaboration doctor-bright doctor-clef researcher-james researcher-rosen tale
+tags:_image agent-green collaboration doctor-bright doctor-clef researcher-james researcher-rosen tale
 parent:incident-reports-eye-witness-interviews-and-personal-logs
 [[>]]
 [[module Rate]]
