@@ -1,5 +1,5 @@
 title:SCP-1767
-tags:
+tags:collab-con-2019
 [[>]]
 [[module Rate]]
 [[/>]]
