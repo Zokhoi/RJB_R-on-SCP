@@ -1,5 +1,5 @@
 title:SCP-1767
-tags:_image co-authored collab-con2019 document euclid extradimensional oneiroi scp selachian shark-punching-center
+tags:_cc co-authored collab-con2019 document euclid extradimensional oneiroi scp selachian shark-punching-center
 [[>]]
 [[module Rate]]
 [[/>]]
