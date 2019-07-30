@@ -1,5 +1,5 @@
 title:SCP-1204
-tags:biological euclid mind-affecting neurological parasitic scp
+tags:_image biological euclid mind-affecting neurological parasitic scp
 [[>]]
 [[module Rate]]
 [[/>]]
