@@ -1,4 +1,5 @@
 title:Skunk Ape
+tags:_cc creepypasta tale
 [[include component:creepypasta-theme]]
 
 [[>]]
