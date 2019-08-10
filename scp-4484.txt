@@ -1,4 +1,5 @@
 title:SCP-4484
+tags:_image canine euclid exchange online scp transmission
 [[>]]
 [[module Rate]]
 [[/>]]
