@@ -1,5 +1,5 @@
 title:SCP-4484
-tags:_cc canine euclid exchange online scp transmission
+tags:_cc canine ethics-committee euclid exchange online scp transmission
 [[>]]
 [[module Rate]]
 [[/>]]
