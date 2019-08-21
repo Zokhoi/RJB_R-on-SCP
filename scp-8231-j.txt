@@ -1,5 +1,5 @@
 title:SCP-8231-J
-tags:_cc alive animal avian co-authored dinosaurian esoteric-class joke reptilian sapient scp sentient
+tags:_cc alive animal avian co-authored dinosaurian esoteric-class joke reptilian researcher-james sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
