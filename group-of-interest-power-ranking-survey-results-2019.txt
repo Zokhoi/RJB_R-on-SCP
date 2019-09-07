@@ -1,4 +1,5 @@
 title:Groups of Interest Power Rankings
+tags:_cc admin
 [[module CSS]]
 .collapsible-block-link{font-weight: bold;}
 [[/module]]
