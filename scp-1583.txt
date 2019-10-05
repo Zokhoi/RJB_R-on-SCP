@@ -1,5 +1,5 @@
 title:SCP-1583
-tags:_image biological container global-occult-coalition inscribed keter metallic scp self-replicating transfiguration
+tags:_cc biological container global-occult-coalition inscribed keter metallic scp self-replicating transfiguration
 [[>]]
 [[module Rate]]
 [[/>]]
