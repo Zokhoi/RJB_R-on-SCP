@@ -1,5 +1,5 @@
 title:Parting
-tags:_image asci nyc2013 tale
+tags:asci nyc2013 tale
 [[>]]
 [[module Rate]]
 [[/>]]
