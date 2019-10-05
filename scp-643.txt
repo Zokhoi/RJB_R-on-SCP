@@ -1,5 +1,5 @@
 title:SCP-643
-tags:_image autonomous compulsion food mind-affecting olfactory safe scp
+tags:_cc autonomous compulsion food mind-affecting olfactory safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
