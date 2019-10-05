@@ -1,5 +1,5 @@
 title:Rogetbox
-tags:_image workbench
+tags:workbench
 This is where Roget fiddles with stuff
 
 [[collapsible show="► Contest Pages" hide="▼ Ranked By Rating"]]
