@@ -11,7 +11,7 @@ tags:
 
 **Item #:** SCP-4957
 
-**Object Class:** Neutralized(Formerly Euclid)
+**Object Class:** Neutralized (Formerly Euclid)
 
 **Special Containment Procedures:** The gas station which originally housed SCP-4957 has been demolished. The Foundation front corporation Special-Purpose Concrete Providers Inc. has laid down a parking lot which is to be leased as part of regional revenue-gathering operations.
 
@@ -38,7 +38,7 @@ Regional agents in Little Rock, Arkansas discovered SCP-4957 after several emplo
 > 
 > **UNSUB:** Hello? Is there someone on the other end of this thing?
 > 
-> **Dr. Serenati:** Oh! Hello we are, here, here to help. What is your name?
+> **Dr. Serenati:** Oh! Hello, we are here, here to help. What is your name?
 > 
 > **UNSUB:** Martin. Are you getting me out of here?
 > 
