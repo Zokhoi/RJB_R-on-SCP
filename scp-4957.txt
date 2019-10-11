@@ -1,5 +1,5 @@
 title:SCP-4957
-tags:
+tags:_image location neutralized portal scp
 [[>]]
 [[module Rate]]
 [[/>]]
