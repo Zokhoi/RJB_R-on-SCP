@@ -1,5 +1,5 @@
 title:Saint Augustine Monster
-tags:creepypasta parawatch tale
+tags:_cc creepypasta parawatch tale
 [[include component:creepypasta-theme]]
 
 [[>]]
