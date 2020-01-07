@@ -4,6 +4,10 @@ tags:_cc biological ethics-committee euclid mind-affecting neurological parasiti
 [[module Rate]]
 [[/>]]
 
+[[module CSS]]
+@import url(/component:scp-pride/code/1);
+[[/module]]
+
 [[include component:image-block name=1204.JPG|caption=Dr. Mayreder studying SCP-1204|width=300px]]
 
 
