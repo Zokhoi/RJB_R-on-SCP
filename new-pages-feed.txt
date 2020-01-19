@@ -1,5 +1,4 @@
 title:New Pages Feed
-tags:5000
 [[module CSS]]
 .wiki-content-table td:nth-last-child(1){
     width: 3ch;
