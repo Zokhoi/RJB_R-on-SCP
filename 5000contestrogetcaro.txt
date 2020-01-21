@@ -1,4 +1,5 @@
 title:SCP-5000: The Man of Steel
+tags:5000 _image co-authored
 [[>]]
 [[module Rate]]
 [[/>]]
