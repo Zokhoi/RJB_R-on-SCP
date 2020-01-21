@@ -1,5 +1,5 @@
 title:SCP-5000: The Man Of Steel
-tags:
+tags:5000
 [[>]]
 [[module Rate]]
 [[/>]]
