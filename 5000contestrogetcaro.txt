@@ -1,5 +1,5 @@
 title:SCP-5000: Man of Steel
-tags:5000 _image asci co-authored document esoteric-class historical scp
+tags:5000 _cc asci co-authored document esoteric-class historical scp
 [[>]]
 [[module Rate]]
 [[/>]]
