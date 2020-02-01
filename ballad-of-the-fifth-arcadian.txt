@@ -1,5 +1,5 @@
 title:Ballad Of The Fifth Arcadian
-tags:fifthist goi-format
+tags:_image fifthist goi-format
 [[>]]
 [[module Rate]]
 [[/>]]
