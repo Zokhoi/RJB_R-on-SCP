@@ -4,5 +4,5 @@ tags:
 [[module Rate]]
 [[/>]]
 [[=]]
-[[image haveyouplayedataritoday.png]]
+[[image https://i.imgur.com/nyeYast.png]]
 [[/=]]
