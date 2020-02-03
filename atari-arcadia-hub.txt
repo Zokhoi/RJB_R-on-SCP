@@ -1,5 +1,5 @@
 title:Atari Arcadia Manual
-tags:hub
+tags:_cc hub
 [[include :scp-wiki:component:black-highlighter-theme-dev]]
 [[include :scp-wiki:component:scp-offices-theme]]
 
