@@ -11,7 +11,7 @@ tags:_cc hub
 
 [[tabview]]
 [[tab Cover]]
-= [[image http://scp-sandbox-3.wdfiles.com/local--files/roget-sandbox-turbo-edition/Atari]]
+= [[image Manual.png]]
 [[/tab]]
 [[tab Insert Coin]]
 
