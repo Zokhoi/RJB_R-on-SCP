@@ -1,5 +1,8 @@
 title:Atari Arcadia Manual
 tags:
+[[include :scp-wiki:component:black-highlighter-theme-dev]]
+[[include :scp-wiki:component:scp-offices-theme]]
+
 [[>]]
 [[module Rate]]
 [[/>]]
