@@ -1,4 +1,4 @@
-title:SCP-5000: Man of Steel
+title:SCP-5011
 tags:5000 _cc asci co-authored document esoteric-class historical scp
 [[>]]
 [[module Rate]]
