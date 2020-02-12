@@ -1,5 +1,5 @@
 title:SCP-5200
-tags:_image electronic extraterrestrial historical keter mobile scp spacetime
+tags:_image arcadia electronic extraterrestrial historical keter mobile scp spacetime
 [[>]]
 [[module Rate]]
 [[/>]]
