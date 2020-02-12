@@ -1,5 +1,5 @@
 title:My Father The Commodore Part III - Goodbye
-tags:tale
+tags:arcadia tale
 [[>]]
 [[module Rate]]
 [[/>]]
