@@ -1,5 +1,5 @@
 title:I Forgot To Remember To Forget
-tags:tale
+tags:doctor-vang tale
 [[>]]
 [[module Rate]]
 [[/>]]
