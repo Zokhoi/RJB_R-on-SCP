@@ -1,5 +1,5 @@
 title:SCP-5599
-tags:
+tags:atari-arcadia auditory euclid interactive scp sensory visual
 [[>]]
 [[module Rate]]
 [[/>]]
