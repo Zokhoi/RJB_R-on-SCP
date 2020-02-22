@@ -1,5 +1,5 @@
 title:SCP-7007-J
-tags:
+tags:autonomous esoteric-class humanoid intangible joke online scp
 [[>]]
 [[module Rate]]
 [[/>]]
