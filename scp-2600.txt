@@ -1,5 +1,5 @@
 title:SCP-2600
-tags:2000 _image appliance atari-arcadia electronic euclid game humanoid mind-affecting scp unusual-incidents-unit
+tags:2000 _cc appliance atari-arcadia electronic euclid game humanoid mind-affecting scp unusual-incidents-unit
 [[>]]
 [[module Rate]]
 [[/>]]
