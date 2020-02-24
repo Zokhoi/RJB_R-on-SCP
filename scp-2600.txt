@@ -4,7 +4,7 @@ tags:2000 _image appliance atari-arcadia electronic euclid game humanoid mind-af
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=HAVEYOUPLAYEDATARITODAY.jpg|caption=SCP-2600 during testing]]
+[[include component:image-block name=2600|caption=SCP-2600 during testing]]
 
 
 **Item #:** SCP-2600
