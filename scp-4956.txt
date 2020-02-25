@@ -1,5 +1,5 @@
 title:SCP-4956
-tags:
+tags:_image acoustic autonomous euclid geological historical scp
 [[>]]
 [[module Rate]]
 [[/>]]
