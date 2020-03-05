@@ -1,4 +1,5 @@
 title:SCP Series 4
+tags:hub metadata
 [[div class="content-panel standalone series"]]
 
 [[div class="content-toc"]]
