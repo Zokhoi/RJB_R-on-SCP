@@ -1,5 +1,5 @@
 title:SCP-1178
-tags:_image airborne gru-division-p k-class-scenario keter military radioactive scp transmission weapon
+tags:_image airborne gru-division-p keter military radioactive scp transmission weapon
 [[>]]
 [[module Rate]]
 [[/>]]
