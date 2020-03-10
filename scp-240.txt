@@ -4,8 +4,6 @@ tags:airborne extradimensional extraterrestrial inscribed physics safe scp unusu
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=240.jpg|caption=SCP-240 being used prior to initial containment, by members of the Morsum Space Society]]
-
 **Item #:** SCP-240
 
 **Object Class:** Safe
