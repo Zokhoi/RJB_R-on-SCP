@@ -1,5 +1,5 @@
 title:Dr. Roget's Personnel File
-tags:_image author
+tags:_cc author
 [[include :scp-wiki:component:black-highlighter-theme-dev]]
 
 [[include :scp-wiki:component:info-ayers
