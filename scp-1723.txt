@@ -4,9 +4,6 @@ tags:_image alive auditory electromagnetic gru-division-p humanoid safe scp sent
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=scp1723.jpg|caption=SCP-1723]]
-
-
 **Item #:** SCP-1723
 
 **Object Class:** Safe
