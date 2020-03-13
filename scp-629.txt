@@ -1,5 +1,5 @@
 title:SCP-629
-tags:_image automaton broken-god clockwork dr-wondertainment humanoid mechanical metallic mister safe sapient scp sentient
+tags:_cc automaton broken-god clockwork dr-wondertainment humanoid mechanical metallic mister safe sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
