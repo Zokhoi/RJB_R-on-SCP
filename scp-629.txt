@@ -4,7 +4,7 @@ tags:_image automaton broken-god clockwork dr-wondertainment humanoid mechanical
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=629.jpg|caption=A portion of SCP-629's body, removed for study.]]
+[[include component:image-block name=629-new.png|caption=A portion of SCP-629's body, removed for study.]]
 
 
 **Item #:** SCP-629
