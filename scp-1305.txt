@@ -1,5 +1,5 @@
 title:SCP-1305
-tags:_image alive animal carnivorous euclid predatory scp
+tags:_cc alive animal carnivorous euclid predatory scp
 [[>]]
 [[module Rate]]
 [[/>]]
