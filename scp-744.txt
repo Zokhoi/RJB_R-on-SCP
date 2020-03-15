@@ -4,7 +4,7 @@ tags:_image acoustic autonomous building euclid sapient scp sentient
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-744/744%20exterior.jpeg|caption=SCP-744.|width=315px]]
+[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-744/744-exterior-new.PNG |caption=SCP-744.|width=315px]]
 
 
 **Item #:** SCP-744
