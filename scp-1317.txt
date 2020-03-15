@@ -4,7 +4,7 @@ tags:_image addictive chemical factory safe scp
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=1317-new.jpg|caption=Two instances of SCP-1317]]
+[[include component:image-block name=1317-new.jpg|caption=An instance of SCP-1317]]
 
 
 **Item #:** SCP-1317
