@@ -1,5 +1,5 @@
 title:SCP-1452
-tags:_image building euclid mobile parasitic scp self-replicating
+tags:_cc building euclid mobile parasitic scp self-replicating
 [[>]]
 [[module Rate]]
 [[/>]]
