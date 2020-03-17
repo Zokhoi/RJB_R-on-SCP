@@ -4,7 +4,7 @@ tags:_image autonomous building ectoentropic euclid predatory scp self-replicati
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=Drophouse.jpg|caption=The interior of SCP-574.|width=305px]]
+[[include component:image-block name=Drophouse-new.jpg|caption=The interior of SCP-574.|width=305px]]
 
 
 **Item #:** SCP-574
