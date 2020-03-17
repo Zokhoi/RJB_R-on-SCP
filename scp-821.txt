@@ -4,7 +4,7 @@ tags:_image autonomous building ectoentropic neutralized safe scp
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=821.jpg|caption=SCP-821.]]
+[[include component:image-block name=821-new.jpg|caption=SCP-821.]]
 
 
 **Item #:** SCP-821
