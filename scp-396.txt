@@ -1,4 +1,5 @@
 title:SCP-396
+tags:_cc furniture keter scp teleportation uncontained
 [[>]]
 [[module Rate]]
 [[/>]]
