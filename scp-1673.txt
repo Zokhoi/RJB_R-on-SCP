@@ -1,5 +1,5 @@
 title:SCP-1673
-tags:_image autonomous extremity humanoid location organic safe scp
+tags:autonomous extremity humanoid location organic safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
