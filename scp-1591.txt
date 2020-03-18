@@ -1,5 +1,5 @@
 title:SCP-1591
-tags:_image adaptive featured glass k-class-scenario keter light scp sculpture serpents-hand
+tags:_cc adaptive featured glass k-class-scenario keter light scp sculpture serpents-hand
 [[>]]
 [[module Rate]]
 [[/>]]
