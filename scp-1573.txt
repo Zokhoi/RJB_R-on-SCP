@@ -4,10 +4,6 @@ tags:_image auditory city hallucination humanoid location mind-affecting reprodu
 [[module Rate]]
 [[/>]]
 
-
-[[include component:image-block name=1573.jpg|caption=SCP-1573.]]
-
-
 **Item #:** SCP-1573
 
 **Object Class:** Safe
