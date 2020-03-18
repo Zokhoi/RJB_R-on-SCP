@@ -1,5 +1,5 @@
 title:SCP-1624
-tags:_image computer document electronic euclid online scp
+tags:_cc computer document electronic euclid online scp
 [[>]]
 [[module Rate]]
 [[/>]]
