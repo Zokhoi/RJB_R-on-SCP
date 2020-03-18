@@ -4,7 +4,7 @@ tags:_image building co-authored cognitohazard compulsion event-featured extrate
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=stars.jpg|caption=Portion of SCP-1683's interior.]]
+[[include component:image-block name=stars-new.jpg|caption=Portion of SCP-1683's interior.]]
 
 
 **Item #:** SCP-1683
