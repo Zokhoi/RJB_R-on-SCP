@@ -4,7 +4,7 @@ tags:_image animal autonomous historical neutralized reanimation scp thermal
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=medium.jpg|caption=Equipment related to SCP-2082]]
+[[include component:image-block name=medium-new.jpg|caption=Equipment related to SCP-2082]]
 
 **Item #:** SCP-2082
 
