@@ -4,6 +4,7 @@ tags:artifact cognitohazard fifthist safe scp teleportation
 [[module Rate]]
 [[/>]]
 
+[[include component:image-block name=1724-new.jpg|caption=SCP-1724, prior to containment.|width=280px]]
 
 **Item #:** SCP-1724
 
