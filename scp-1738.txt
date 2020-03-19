@@ -1,5 +1,5 @@
 title:SCP-1738
-tags:_image auditory furniture hallucination marshall-carter-and-dark memory-affecting mind-affecting safe scp visual
+tags:_cc auditory furniture hallucination marshall-carter-and-dark memory-affecting mind-affecting safe scp visual
 [[>]]
 [[module Rate]]
 [[/>]]
