@@ -1,5 +1,5 @@
 title:SCP-1908
-tags:_image alive dr-wondertainment ectoentropic euclid humanoid liquid mister sapient scp sentient
+tags:_cc alive dr-wondertainment ectoentropic euclid humanoid liquid mister sapient scp sentient
 [[>]]
 [[module Rate]]
 [[/>]]
