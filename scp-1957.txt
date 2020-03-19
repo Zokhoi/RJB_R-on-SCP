@@ -5,7 +5,7 @@ tags:_image artifact compulsion engraved euclid mind-affecting scp self-replicat
 [[/>]]
 
 
-[[include component:image-block name=1957.jpg|caption=D-Class subject interacting with an SCP-1957 instance.]]
+[[include component:image-block name=1957-new.jpg|caption=D-Class subject interacting with an SCP-1957 instance.]]
 
 
 **Item #:** SCP-1957
