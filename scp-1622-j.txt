@@ -1,5 +1,5 @@
 title:SCP-1622-J
-tags:_image adaptive esoteric-class food indestructible joke plant scp
+tags:_cc adaptive esoteric-class food indestructible joke plant scp
 [[>]]
 [[module Rate]]
 [[/>]]
