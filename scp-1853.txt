@@ -4,7 +4,7 @@ tags:_cc artifact chemical liquid prometheus safe scp
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=exp0003.jpg|caption=SCP-1853 during testing]]
+[[include component:image-block name=exp0003-new.png|caption=SCP-1853 during testing]]
 
 
 **Item #:** SCP-1853
