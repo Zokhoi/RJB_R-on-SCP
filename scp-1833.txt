@@ -4,7 +4,7 @@ tags:_image class-of-76 document photographic safe scp sensory telepathic
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=1833.jpg|caption=SCP-1833's front cover]]
+[[include component:image-block name=1833-new.jpg|caption=SCP-1833's front cover]]
 
 
 **Item #:** SCP-1833
