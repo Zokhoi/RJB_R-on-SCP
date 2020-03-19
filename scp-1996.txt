@@ -1,5 +1,5 @@
 title:SCP-1996
-tags:_image document ectoentropic euclid humanoid scp teleportation uncontained
+tags:_cc document ectoentropic euclid humanoid scp teleportation uncontained
 [[>]]
 [[module Rate]]
 [[/>]]
