@@ -4,7 +4,7 @@ tags:_image alive dr-wondertainment ectoentropic euclid humanoid liquid mister s
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=1908.jpg|caption=Interior of SCP-1908's containment chamber. SCP-1908 not visible.]]
+[[include component:image-block name=1908-new.jpg|caption=SCP-1908 prior to containment.]]
 
 
 **Item #:** SCP-1908
