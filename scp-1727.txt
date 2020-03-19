@@ -4,7 +4,7 @@ tags:_image appliance electrical mechanical safe scp telekinetic
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=1727.jpg|caption=Vehicle launched by SCP-1727 during testing of water sources in enclosed spaces.]]
+[[include component:image-block name=1727-new.jpg|caption=Vehicle launched by SCP-1727 during testing of water sources in enclosed spaces.]]
 
 **Item #:** SCP-1727
 
