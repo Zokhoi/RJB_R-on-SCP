@@ -1,5 +1,5 @@
 title:SCP-1796
-tags:_image container document memory-affecting meta safe scp telepathic teleportation unusual-incidents-unit
+tags:_cc container document memory-affecting meta safe scp telepathic teleportation unusual-incidents-unit
 [[>]]
 [[module Rate]]
 [[/>]]
