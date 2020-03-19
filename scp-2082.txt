@@ -1,5 +1,5 @@
 title:SCP-2082
-tags:_image animal autonomous historical neutralized reanimation scp thermal
+tags:_cc animal autonomous historical neutralized reanimation scp thermal
 [[>]]
 [[module Rate]]
 [[/>]]
