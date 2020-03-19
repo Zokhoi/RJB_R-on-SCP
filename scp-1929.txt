@@ -1,5 +1,5 @@
 title:SCP-1929
-tags:_image ectoentropic euclid insect location mind-affecting scp transfiguration
+tags:_cc ectoentropic euclid insect location mind-affecting scp transfiguration
 [[>]]
 [[module Rate]]
 [[/>]]
