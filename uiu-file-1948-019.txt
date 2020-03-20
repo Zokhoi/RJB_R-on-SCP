@@ -1,5 +1,5 @@
 title:UIU File: 1948-019
-tags:_image _unusual-incidents-unit goi-format goi2014 unusual-incidents-unit
+tags:_cc _unusual-incidents-unit goi-format goi2014 unusual-incidents-unit
 [[>]]
 [[module Rate]]
 [[/>]]
