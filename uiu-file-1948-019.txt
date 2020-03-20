@@ -23,7 +23,7 @@ tags:_image _unusual-incidents-unit goi-format goi2014 unusual-incidents-unit
 [[/tab]]
 [[tab Photographic Evidence]]
 
-= [[image snailshell.png width="300px"]]
+= [[image snailshell-new.png width="300px"]]
 
 [[/tab]]
 
