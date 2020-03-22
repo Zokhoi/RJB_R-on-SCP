@@ -1,5 +1,5 @@
 title:SCP-1727
-tags:_image appliance electrical mechanical safe scp telekinetic
+tags:_cc appliance electrical mechanical safe scp telekinetic
 [[>]]
 [[module Rate]]
 [[/>]]
