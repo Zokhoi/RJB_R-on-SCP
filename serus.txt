@@ -1,5 +1,5 @@
 title:Serus
-tags:
+tags:artwork co-authored project-thaumiel tale
 parent:thaumiel
 [[>]]
 [[module Rate]]
