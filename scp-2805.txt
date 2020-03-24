@@ -1,5 +1,5 @@
 title:SCP-2805
-tags:_image biological cognitohazard euclid hallucination historical humanoid mind-affecting oneiroi scp visual
+tags:_cc biological cognitohazard euclid hallucination historical humanoid mind-affecting oneiroi scp visual
 [[>]]
 [[module Rate]]
 [[/>]]
