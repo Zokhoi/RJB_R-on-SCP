@@ -1,5 +1,5 @@
 title:SCP-5200-J
-tags:_image compulsion esoteric-class joke mind-affecting scp uncontained
+tags:_cc compulsion esoteric-class joke mind-affecting scp uncontained
 [[>]]
 [[module Rate]]
 [[/>]]
