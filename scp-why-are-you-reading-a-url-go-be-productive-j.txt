@@ -4,7 +4,7 @@ tags:_image compulsion esoteric-class joke mind-affecting scp uncontained
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=5200-j.jpg|caption=Agent Boyd defending against SCP-5200-J]]
+[[include component:image-block name=5200-j-new.jpg|caption=Agent Boyd defending against SCP-5200-J]]
 
 
 **Item #:** SCP-5200-J
