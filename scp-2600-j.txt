@@ -1,5 +1,5 @@
 title:SCP-2600-J
-tags:_image autonomous chicago-spirit joke marshall-carter-and-dark safe sapient sarkic scp sentient serpents-hand vehicle
+tags:_cc autonomous chicago-spirit joke marshall-carter-and-dark safe sapient sarkic scp sentient serpents-hand vehicle
 [[>]]
 [[module Rate]]
 [[/>]]
