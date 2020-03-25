@@ -1,5 +1,5 @@
 title:SCP-5599
-tags:_cc atari-arcadia auditory euclid game scp sensory visual
+tags:_cc arcadia auditory euclid game scp sensory visual
 [[>]]
 [[module Rate]]
 [[/>]]
