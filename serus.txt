@@ -1,5 +1,5 @@
 title:Serus
-tags:artwork co-authored project-thaumiel tale
+tags:_cc artwork co-authored project-thaumiel tale
 parent:thaumiel
 [[>]]
 [[module Rate]]
