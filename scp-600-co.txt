@@ -1,5 +1,6 @@
 title:SCP-600-CO
-tags:_image alive esoteric-class joke plant scp
+[[include theme:plant]]
+
 [[>]]
 [[module Rate]]
 [[/>]]
