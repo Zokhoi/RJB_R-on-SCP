@@ -1,5 +1,5 @@
 title:SCP-4658
-tags:arcadia artifact autonomous ectoentropic electronic game safe scp
+tags:_cc arcadia artifact autonomous ectoentropic electronic game safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
