@@ -1,5 +1,5 @@
 title:New Technical Issues
-tags:_cc agent-green collaboration director-moose doctor-bright doctor-clef researcher-james researcher-rosen tale
+tags:_cc agent-green collaboration director-moose doctor-bright doctor-clef joke researcher-james researcher-rosen tale
 parent:incident-reports-eye-witness-interviews-and-personal-logs
 [[>]]
 [[module Rate]]
