@@ -1,5 +1,5 @@
 title:Mystery Skipper Theater 3000
-tags:agent-navarro director-aktus doctor-kondraki project-crossover tale
+tags:agent-navarro director-aktus doctor-edison doctor-kondraki project-crossover tale
 [[>]]
 [[module Rate]]
 [[/>]]
