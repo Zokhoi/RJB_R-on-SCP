@@ -1,5 +1,4 @@
 title:Prometheans
-tags:agent-kulzn prometheus tale
 [[>]]
 [[module Rate]]
 [[/>]]
