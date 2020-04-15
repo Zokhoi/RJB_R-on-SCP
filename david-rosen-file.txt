@@ -1,5 +1,5 @@
 title:Personnel Evaluation File - David Rosen
-tags:hub researcher-rosen
+tags:hub pattern-screamer researcher-rosen
 [[>]]
 [[module Rate]]
 [[/>]]
