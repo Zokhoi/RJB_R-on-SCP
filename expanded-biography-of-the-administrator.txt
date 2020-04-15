@@ -1,5 +1,5 @@
 title:Expanded Biography of "The Administrator"
-tags:_cc agent-lament agent-strelnikov black-queen director-ghost director-moose doctor-bright doctor-clef doctor-gears doctor-glass doctor-heiden doctor-iceberg doctor-kondraki doctor-rights doctor-snorlison doctor-vang kain-pathos-crow maria-jones tale thad-xyank the-administrator
+tags:_cc agent-lament black-queen doctor-bright doctor-clef doctor-gears doctor-kondraki tale thad-xyank the-administrator
 = ,,//Well, it all got started when I became god.//,,
 
 [[>]]
