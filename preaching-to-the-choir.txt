@@ -1,5 +1,4 @@
 title:Preaching To The Choir
-tags:agent-kulzn tale
 [[>]]
 [[module Rate]]
 [[/>]]
