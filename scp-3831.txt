@@ -4,7 +4,7 @@ tags:_cc audio cognitohazard electronic euclid location mind-affecting scp
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=http://scpsandbox2.wdfiles.com/local--files/another-sandbox/3000.jpg|caption= Documentation of SCP-3831 prior to containment.]]
+[[include component:image-block name=3831|caption= Documentation of SCP-3831 prior to containment.]]
 
 
 **Item#:** SCP-3831
