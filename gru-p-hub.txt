@@ -5,7 +5,7 @@ parent:groups-of-interest
 [[module Rate]]
 [[/>]]
 
-= [[image gru2.png]]
+= [[image grubanner.png]]
 
 [[collapsible show="►GRU-P Documentation" hide="▼Access Granted"]]
 [[=]]
