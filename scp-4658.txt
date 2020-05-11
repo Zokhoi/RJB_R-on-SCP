@@ -6,7 +6,7 @@ tags:_cc arcadia artifact autonomous ectoentropic electronic game safe scp sexua
 
 [[include component:image-block
     name=joystick|
-    caption=SCP-4862|
+    caption=SCP-4858|
     width=350px
 ]]
 
