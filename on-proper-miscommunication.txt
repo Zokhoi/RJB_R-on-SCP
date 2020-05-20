@@ -1,5 +1,5 @@
 title:On Proper Miscommunication
-tags:tale
+tags:miscommunications tale
 [[>]]
 [[module Rate]]
 [[/>]]
