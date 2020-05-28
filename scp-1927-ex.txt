@@ -1,5 +1,5 @@
 title:SCP-1927-EX
-tags:_cc co-authored electronic explained media observational scp transmission
+tags:_cc _licensebox co-authored electronic explained media observational scp transmission
 parent:scp-ex
 [[include :scp-wiki:component:license-box]]
 =====
