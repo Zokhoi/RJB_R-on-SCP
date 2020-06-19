@@ -1,7 +1,7 @@
 title:New Technical Issues
 tags:_cc collaboration joke researcher-rosen tale
 parent:incident-reports-eye-witness-interviews-and-personal-logs
-0[[>]]
+[[>]]
 [[module Rate]]
 [[/>]]
 
@@ -106,9 +106,6 @@ Thanks.//
 > You don't know what to do with a "Super-Zooper-Flooper-Do?" Well, ask someone else, because I don't want to.
 > ~Rosen
 
-**Note:** __██/██/████__
-//Hey, it seems that some shithead added a random thing of no value whatsoever to this page. I hope it won't be a problem.//
-//- Some Shithead Thing-Adder//
 
 
 > Thanks to a modest budget increase I’ve added several interns to help me with the work here. I haven’t learned their names yet but they’re all interns so... yeah. Let me know if they screw up. 
@@ -120,5 +117,10 @@ Thanks.//
 > Hey. I can't believe I'll work for the great Rosen now. I will gladly assist you in any issues I can. May I get you a coffee?
 > ~Intern Beauvillier
 >P.S: Do you want sugar with your coffee?
+
+
+**Note:** __██/██/████__
+//Hey, it seems that some shithead added a random thing of no value whatsoever to this page. I hope it won't be a problem.//
+//- Some Shithead Thing-Adder//
 
 >Hey, Roget here. Please add stuff to this page above the "Some Shithead" thing, because I leave that at the bottom of the page on purpose because I think it's a good way to end the page. Thanks in advance!
