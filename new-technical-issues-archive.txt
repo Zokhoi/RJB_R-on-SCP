@@ -1,5 +1,6 @@
 title:New Technical Issues Archive
 tags:
+parent:new-technical-issues
 [[>]]
 [[module Rate]]
 [[/>]]
