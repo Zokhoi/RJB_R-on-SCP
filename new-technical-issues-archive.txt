@@ -1,5 +1,5 @@
 title:New Technical Issues Archive
-tags:
+tags:joke researcher-rosen tale
 parent:new-technical-issues
 [[>]]
 [[module Rate]]
