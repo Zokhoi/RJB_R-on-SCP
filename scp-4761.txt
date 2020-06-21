@@ -1,5 +1,5 @@
 title:SCP-4761
-tags:_image co-authored
+tags:
 [[>]]
 [[module Rate]]
 [[/>]]
