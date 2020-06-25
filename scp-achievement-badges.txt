@@ -1,5 +1,4 @@
 title:SCP Achievement Badges
-tags:essay
 [[>]]
 [[module Rate]]
 [[/>]]
@@ -225,7 +224,7 @@ Awardees:
 ----
 
 [[div style="float:left; width: 45%; padding: 0 2%"]]
-[[f<image Media.jpg]]
+[[f<image Hearts.jpg]]
 
 [[size 180%]]**Lore Expert**[[/size]]
 
