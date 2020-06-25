@@ -1,5 +1,5 @@
 title:SCP Achievement Badges
-tags:_cc essay
+tags:_cc collaboration essay
 [[>]]
 [[module Rate]]
 [[/>]]
