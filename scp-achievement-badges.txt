@@ -39,6 +39,7 @@ Awardees:
 # [[*user Cerastes]]
 # [[*user Uncle Nicolini]]
 
+
 [[/div]]
 
 ~~~~
@@ -67,6 +68,7 @@ Awardees:
 # [[*user MaliceAforethought]] - [[[SCP-3663]]], [[[SCP-2856]]], [[[SCP-3856]]], [[[SCP-3564]]], [[[SCP-4856]]]
 # [[*user Cerastes]] - [[[SCP-5721]]], [[[SCP-5998]]], [[[SCP-3928]]], [[[SCP-5239]]], [[[SCP-2510]]]
 # [[*user Uncle Nicolini]] - [[[SCP-5047]]], [[[SCP-4432]]], [[[SCP-4026]]], [[[SCP-4967]]], [[[SCP-4817]]]
+# [[*user Roget]]
 
 
 [[/div]]
@@ -139,6 +141,7 @@ Awardees:
 # [[*user Jacob Conwell]] - [[[Paper Pusher]]], [[[Last Meetings]]], [[[Simple Sketches]]], [[[Products]]], [[[Building Up]]]
 # [[*user MaliceAforethought]]
 # [[*user Uncle Nicolini]]
+# [[*user Roget]]
 
 [[/div]]
 
@@ -179,6 +182,7 @@ Awardees:
 # [[*user spikebrennan]]
 # [[*user Cerastes]]
 # [[*user Uncle Nicolini]]
+# [[*user Roget]]
 
 
 [[/div]]
@@ -205,6 +209,7 @@ Awardees:
 # [[*user ROUNDERHOUSE]]
 # [[*user Westrin]]
 # [[*user Uncle Nicolini]]
+# [[*user Roget]]
 [[/div]]
 
 ~~~~
@@ -289,6 +294,7 @@ Awardees:
 # [[*user djkaktus]]
 # [[*user Jacob Conwell]]
 # [[*user Uncle Nicolini]]
+# [[*user Roget]]
 [[/div]]
 
 ~~~~
@@ -370,6 +376,7 @@ Awardees:
 # [[*user spikebrennan]]
 # [[*user Cerastes]]
 # [[*user Uncle Nicolini]]
+# [[*user Roget]]
 [[/div]]
 
 ~~~~
@@ -425,6 +432,7 @@ Awardees:
 # [[*user Mew-ltiverse]]
 # [[*user Deadly Bread]]
 # [[*user Uncle Nicolini]]
+# [[*user Roget]]
 
 [[/div]]
 
@@ -739,6 +747,7 @@ Awardees:
 # [[*user ROUNDERHOUSE]]
 # [[*user spikebrennan]]
 # [[*user Uncle Nicolini]]
+# [[*user Roget]]
 
 
 [[/div]]
@@ -809,7 +818,7 @@ Awardees:
 [[f<image http://scp-sandbox-3.wdfiles.com/local--files/aethris/sharpshooter.png]]
 [[size 180%]]**Sharpshooter**[[/size]]
 
-As an author of at least 10 articles on the wiki, have an average net upvote rating for your body of work that is at least +200
+As an author of at least 10 articles on the wiki, have an average net upvote rating for your body of work that is at least +100
 
 [[/div]]
 
@@ -831,7 +840,7 @@ Have an article that was previously deleted and rewritten get to +50 or above.
 [[div style="float:left; width: 45%; padding: 0 2%"]]
 
 # [[*user Cerastes]]
-
+# [[*user Roget]]
 [[/div]]
 ~~~~
 ------
