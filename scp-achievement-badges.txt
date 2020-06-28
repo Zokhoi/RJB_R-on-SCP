@@ -38,6 +38,7 @@ Awardees:
 # [[*user spikebrennan]]
 # [[*user Cerastes]]
 # [[*user Uncle Nicolini]]
+# [[*user NatVoltaic]]
 
 
 [[/div]]
@@ -69,6 +70,7 @@ Awardees:
 # [[*user Cerastes]] - [[[SCP-5721]]], [[[SCP-5998]]], [[[SCP-3928]]], [[[SCP-5239]]], [[[SCP-2510]]]
 # [[*user Uncle Nicolini]] - [[[SCP-5047]]], [[[SCP-4432]]], [[[SCP-4026]]], [[[SCP-4967]]], [[[SCP-4817]]]
 # [[*user Roget]]
+# [[*user NatVoltaic]]
 
 
 [[/div]]
@@ -142,6 +144,8 @@ Awardees:
 # [[*user MaliceAforethought]]
 # [[*user Uncle Nicolini]]
 # [[*user Roget]]
+# [[*user NatVoltaic]]
+
 
 [[/div]]
 
@@ -183,6 +187,8 @@ Awardees:
 # [[*user Cerastes]]
 # [[*user Uncle Nicolini]]
 # [[*user Roget]]
+# [[*user NatVoltaic]]
+
 
 
 [[/div]]
@@ -210,6 +216,7 @@ Awardees:
 # [[*user Westrin]]
 # [[*user Uncle Nicolini]]
 # [[*user Roget]]
+# [[*user NatVoltaic]]
 [[/div]]
 
 ~~~~
@@ -295,6 +302,8 @@ Awardees:
 # [[*user Jacob Conwell]]
 # [[*user Uncle Nicolini]]
 # [[*user Roget]]
+# [[*user NatVoltaic]]
+
 [[/div]]
 
 ~~~~
@@ -319,6 +328,8 @@ Awardees:
 # [[*user Calibri Bold]]
 # [[*user spikebrennan]]
 # [[*user Uncle Nicolini]]
+# [[*user NatVoltaic]]
+
 [[/div]]
 
 ~~~~
@@ -377,6 +388,8 @@ Awardees:
 # [[*user Cerastes]]
 # [[*user Uncle Nicolini]]
 # [[*user Roget]]
+# [[*user NatVoltaic]]
+
 [[/div]]
 
 ~~~~
@@ -411,6 +424,8 @@ Awardees:
 # [[*user TroyL]]
 # [[*user Jacob Conwell]]
 # [[*user Captain Kirby]]
+# [[*user NatVoltaic]]
+
 [[/div]]
 
 ~~~~
@@ -475,6 +490,8 @@ Awardees:
 # [[*user The Pighead]]
 # [[*user Aethris]]
 # [[*user Uncle Nicolini]]
+# [[*user NatVoltaic]]
+
 [[/div]]
 
 ~~~~
@@ -570,6 +587,7 @@ Awardees:
 # [[*user Ihp]]
 # [[*user Uncle Nicolini]](x2)
 # [[*user Tanhony]]
+
 [[/collapsible]]
 
 [[/div]]
@@ -596,6 +614,8 @@ Win second place in a contest.
 # [[*user Roget]]
 # [[*user Captain Kirby]]
 # [[*user Uncle Nicolini]]
+# [[*user NatVoltaic]]
+
 
 [[/div]]
 
@@ -625,7 +645,7 @@ Win second place in a contest.
 # [[*user ROUNDERHOUSE]]
 # [[*user Uncle Nicolini]]
 # [[*user CadaverCommander]]
-# [[[*user DrAkimoto]] - [[[SCP-5708]]]
+# [[*user DrAkimoto]] - [[[SCP-5708]]]
 # [[*user Jacob Conwell]] - [[[SCP-3060]]], [[[SCP-4160]]], [[[SCP-5060]]]
 # [[*user Yossipossi]] - [[[SCP-5001]]]
 # [[*user Deadly Bread]]
@@ -634,6 +654,8 @@ Win second place in a contest.
 # [[*user spikebrennan]]
 # [[*user Cerastes]] - [[[SCP-5998]]]
 # [[*user Uncle Nicolini]] [[[SCP-4003]]], [[[SCP-5555]]]
+# [[*user NatVoltaic]]
+
 
 [[/div]]
 
@@ -841,6 +863,8 @@ Have an article that was previously deleted and rewritten get to +50 or above.
 
 # [[*user Cerastes]]
 # [[*user Roget]]
+# [[*user NatVoltaic]]
+
 [[/div]]
 ~~~~
 ------
