@@ -41,6 +41,7 @@ Awardees:
 # [[*user NatVoltaic]]
 # [[*user H0dari]]
 # [[*user DianaBerry]]
+# [[*user stormbreath]]
 
 [[/div]]
 
@@ -73,6 +74,7 @@ Awardees:
 # [[*user Roget]]
 # [[*user NatVoltaic]]
 # [[*user Deadly Bread]]
+# [[*user stormbreath]]
 
 
 [[/div]]
@@ -121,6 +123,7 @@ Awardees:
 # [[*user Roget]]
 # [[*user spikebrennan]] 
 # [[*user Uncle Nicolini]]
+# [[*user stormbreath]]
 [[/div]]
 
 ~~~~
@@ -148,6 +151,7 @@ Awardees:
 # [[*user Uncle Nicolini]]
 # [[*user Roget]]
 # [[*user NatVoltaic]]
+# [[*user stormbreath]]
 
 
 [[/div]]
@@ -193,7 +197,7 @@ Awardees:
 # [[*user NatVoltaic]]
 # [[*user Popsioak]]
 # [[*user DianaBerry]] -- [[[http://www.scp-wiki.net/scp-4319|SCP-4319]]]
-
+# [[*user stormbreath]]
 
 [[/div]]
 
@@ -309,6 +313,7 @@ Awardees:
 # [[*user Uncle Nicolini]]
 # [[*user Roget]]
 # [[*user NatVoltaic]]
+# [[*user stormbreath]]
 
 [[/div]]
 
@@ -335,6 +340,7 @@ Awardees:
 # [[*user spikebrennan]]
 # [[*user Uncle Nicolini]]
 # [[*user NatVoltaic]]
+# [[*user stormbreath]]
 
 [[/div]]
 
@@ -397,6 +403,7 @@ Awardees:
 # [[*user Roget]]
 # [[*user Popsioak]]
 # [[*user NatVoltaic]]
+# [[*user stormbreath]]
 
 [[/div]]
 
@@ -504,6 +511,7 @@ Awardees:
 # [[*user aforestfullofstars]]
 # [[*user Popsioak]]
 # [[*user DianaBerry]]
+# [[*user stormbreath]]
 
 [[/div]]
 
@@ -674,6 +682,7 @@ Win second place in a contest.
 # [[*user Uncle Nicolini]] [[[SCP-4003]]], [[[SCP-5555]]]
 # [[*user NatVoltaic]]
 # [[*user Popsioak]]
+# [[*user stormbreath]]
 
 
 [[/div]]
@@ -890,6 +899,7 @@ Have an article that was previously deleted and rewritten get to +50 or above.
 # [[*user H0dari]]
 # [[*user Popsioak]]
 # [[*user Deadly Bread]]
+# [[*user stormbreath]]
 
 [[/div]]
 ~~~~
@@ -906,6 +916,7 @@ Have an article that was previously deleted and rewritten get to +50 or above.
 
 # [[*user Calibri Bold]]
 # [[*user Captain Kirby]]
+# [[*user stormbreath]]
 
 [[/div]]
 ~~~~
