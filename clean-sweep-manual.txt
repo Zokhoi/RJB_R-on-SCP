@@ -1,5 +1,5 @@
 title:Clean Sweep Manual
-tags:arcadia goi-format
+tags:_image arcadia goi-format
 [[>]]
 [[module Rate]]
 [[/>]]
