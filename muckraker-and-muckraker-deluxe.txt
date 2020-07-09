@@ -1,5 +1,5 @@
 title:Muckraker & Muckraker Deluxe
-tags:arcadia goi-format
+tags:_image arcadia goi-format
 [[>]]
 [[module Rate]]
 [[/>]]
