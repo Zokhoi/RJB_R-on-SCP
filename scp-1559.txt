@@ -1,5 +1,5 @@
 title:SCP-1559
-tags:_cc auditory avian cognitohazard document euclid inscribed scp sensory visual
+tags:_cc auditory avian cognitohazard document euclid scp sensory visual
 [[>]]
 [[module Rate]]
 [[/>]]
