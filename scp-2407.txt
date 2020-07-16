@@ -1,5 +1,5 @@
 title:SCP-2407
-tags:co-authored cognitohazard euclid event-featured exchange mind-affecting scp
+tags:co-authored cognitohazard euclid event-featured exchange mind-affecting scp visual
 [[>]]
 [[module Rate]]
 [[/>]]
