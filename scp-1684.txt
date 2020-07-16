@@ -1,5 +1,5 @@
 title:SCP-1684
-tags:_cc building cognitohazard euclid memory-affecting mind-affecting sapient scp sentient uncontained
+tags:_cc building cognitohazard euclid memory-affecting mind-affecting sapient scp sentient uncontained visual
 [[>]]
 [[module Rate]]
 [[/>]]
