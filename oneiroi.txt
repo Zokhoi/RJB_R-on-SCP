@@ -1,4 +1,4 @@
-title:Oneiroi Group of Interest Hub
+title:Oneiroi Hub
 tags:_cc hub oneiroi
 parent:groups-of-interest
 [[>]]
