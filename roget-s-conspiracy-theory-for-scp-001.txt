@@ -1,5 +1,5 @@
 title:Roget's Proposal II
-tags:001-proposal _image airborne explained historical k-class-scenario mind-affecting scp spacetime temporal weapon
+tags:001-proposal _image airborne ectoentropic explained historical k-class-scenario mind-affecting scp spacetime temporal weapon
 parent:scp-001
 [[include theme:black-highlighter-theme]]
 [[include theme:scp-offices-theme]]
