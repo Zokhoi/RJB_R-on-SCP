@@ -1,5 +1,6 @@
 title:Roget's Proposal II
 tags:
+parent:scp-001
 [[include theme:black-highlighter-theme]]
 [[include theme:scp-offices-theme]]
 
