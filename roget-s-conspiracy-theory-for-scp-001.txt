@@ -1,5 +1,4 @@
 title:Roget's Proposal II
-tags:001-proposal airborne explained historical k-class-scenario mind-affecting scp spacetime temporal weapon
 parent:scp-001
 [[include theme:black-highlighter-theme]]
 [[include theme:scp-offices-theme]]
@@ -8,7 +7,7 @@ parent:scp-001
 [[module Rate]]
 [[/>]]
 
-[[div style="background: #FFEBCD;" "float: center; border: solid 4px #444444; width: 1040px; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 2px 1px 3px rgba(0,0,0,.2);"]]
+[[div style="background: #FFEBCD;" "float: center; border: solid 4px #444444; width: auto; padding: 1px 15px; margin: auto; box-shadow: 2px 1px 3px rgba(0,0,0,.2);"]]
 
 [[include :scp-sandbox-3:component:cd-ver2
 |lv=6
