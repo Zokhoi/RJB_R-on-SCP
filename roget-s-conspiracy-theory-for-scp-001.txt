@@ -114,7 +114,7 @@ Any scenario, whether there exists witness testimony or not, could be true given
 
 ----
 
-> [[collapsible show="Dallas Police Transcript - Babushka Lady" hide="__Babushka Lady__"]]
+> [[collapsible show="Police Log - Babushka Lady" hide="__Babushka Lady__"]]
 > **Foreward:** //The so-called "Babushka lady" was briefly held in custody by the Dallas Police, giving a brief statement before she was released. There is no record as to when or why she was released from custody.//
 > 
 > **BL:** Yeah, I saw old man Zapruder with that 'camera', right? Pretty good view from that pillar, especially since the TV crew wasn't there to hog the space. I'm sure a few frames with extra white puffs will just happen to go missing, right? 
@@ -131,7 +131,7 @@ Any scenario, whether there exists witness testimony or not, could be true given
 > 
 > [[/collapsible]]
 
-> [[collapsible show="Umbrella Man Cassette Transcript" hide="__Umbrella Man__"]]
+> [[collapsible show="Umbrella Man Tape" hide="__Umbrella Man__"]]
 > 
 > **Foreward:**  Anonymous tape recording by the alleged "Umbrella Man", a person to speak to since he was seen in photographs holding an umbrella beside the motorcade on a sunny day.
 > 
@@ -154,7 +154,7 @@ Any scenario, whether there exists witness testimony or not, could be true given
 
 
 
-> [[collapsible show="Secretary George Reedy Tape" hide="__Secretary Reedy__"]]
+> [[collapsible show="Secretary Reedy Tape" hide="__Secretary Reedy__"]]
 > **Foreward:** George Reedy was appointed Press Secretary by President Johnson after the latter's accession to power.
 > 
 > //I remember someone once told me Kennedy knew it was a killbox. 100% certainty. There were a thousand ways to die in Dealy Plaza, and Kennedy had made peace with all of them. Why? Back was killing him. The job was killing him.  Re-election looked likely, four more years of torture and then what?//
@@ -274,7 +274,7 @@ Any scenario, whether there exists witness testimony or not, could be true given
 > 
 > [[/collapsible]]
 
-> [[collapsible show="Deathbed Confession - Fidel Castro" hide="__Dying Castro__"]]
+> [[collapsible show="Deathbed Confession - Castro" hide="__Dying Castro__"]]
 > 
 > **CASTRO:** [It wasn't worth it.]
 > 
