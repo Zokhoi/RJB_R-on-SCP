@@ -46,7 +46,7 @@ SCP-001 is the projectile which killed U.S. President John F. Kennedy, fired by 
 
 The events surrounding SCP-001's trajectory are designated as Incident-001-Γ.
 
-Although the divergent standards of objectivity are largely compatible enough to allow for human society to function, that does not mean they are not a threat to the long-term viability of human civilization and intelligent life as a whole. It is possible that the current formation of reality exists as a result of a VK-Class reality restructuring scenario.
+Although the divergent standards of objectivity are largely compatible enough to allow for human society to function, that does not mean they are not a threat to the long-term viability of human civilization and intelligent life as a whole. It is possible that the current formation of reality exists as a result of a [[[roget-s-proposal| VK-Class reality restructuring scenario.]]]
 
 [[include component:image-block
  name=https://upload.wikimedia.org/wikipedia/commons/0/03/Blackdogman.PNG|
