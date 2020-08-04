@@ -168,7 +168,7 @@ IRS Circular 230 Notice: We are required to advise you no person or entity may u
 > ~ Beauvillier
 
 **Note:** __04/08/2020__
-//Hello, my Foundation assigned laptop appears to have a problem with its sound system. You see, whenever I lick the sticker with the serial number on it, the speaker plays the melody of "Mary Had a Little Lamb", even when the laptop itself is turned off. Is this normal behavior or is my laptop affected by an anomaly of some kind? Thanks in advance.//
+//Hello, my Foundation assigned laptop appears to have a problem with its sound system. You see, the speakers play the melody of "Mary Had a Little Lamb" whenever I lick the sticker with the serial number on it, even when the laptop itself is turned off. Is this normal behavior or is my laptop affected by an anomaly of some kind? Thanks in advance.//
 //- Junior Researcher Pallas//
 
 **Note:** __██/██/████__
