@@ -27,8 +27,8 @@ parent:scp-001
 ----
 
 [[include component:image-block
-    name=zap|
-    caption=Frame 150 of the public 'Zapruder Film'.|
+    name=smiles|
+    caption=Presidential motorcade directly prior to Incident-001-Γ.|
     width=600
 ]]
 
