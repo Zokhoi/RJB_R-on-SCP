@@ -1,5 +1,5 @@
 title:SCP-1573
-tags:auditory city hallucination humanoid mind-affecting reproductive safe scp sculpture transfiguration visual
+tags:_image auditory city hallucination humanoid mind-affecting reproductive safe scp sculpture transfiguration visual
 [[>]]
 [[module Rate]]
 [[/>]]
