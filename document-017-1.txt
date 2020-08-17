@@ -1,5 +1,5 @@
 title:Document #017-1
-tags:_image tale
+tags:_cc tale
 [[>]]
 [[module Rate]]
 [[/>]]
