@@ -277,7 +277,7 @@ The screen snaps shut, and everything goes black.
 @@ @@
 [[=]]
 [[div class="blockquote" style="border-radius: 10px; margin: 10px"]]
-[https://discord.gg/3RSKAsk Hang out with us on Discord!]
+[https://discord.gg/SRwjAuE Hang out with us on Discord!]
 [[/div]]
 [[/=]]
 @@ @@
