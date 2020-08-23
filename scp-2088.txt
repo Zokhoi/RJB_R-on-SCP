@@ -112,3 +112,11 @@ A Foundation response is pending.
 << [[[SCP-2087]]] | SCP-2088 | [[[SCP-2089]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** MCDC
+> **Author:** Roget
+> **License:** CC BY-SA 3.0
+=====
+[[include :scp-wiki:component:license-box-end]]
