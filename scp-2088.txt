@@ -118,5 +118,6 @@ A Foundation response is pending.
 > **Filename:** MCDC
 > **Author:** Roget
 > **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2088|SCP Wiki]]]
 =====
 [[include :scp-wiki:component:license-box-end]]
