@@ -85,3 +85,12 @@ SCP-2969 responded when personnel questioned it about the observed anomaly in it
 << [[[SCP-2968]]] | SCP-2969 | [[[SCP-2970]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** Guy Noir, Private Eye.png
+> **Author:** Faminepulse
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2969|SCP Wiki]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
