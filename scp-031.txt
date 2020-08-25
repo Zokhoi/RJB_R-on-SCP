@@ -30,3 +30,13 @@ SCP-031 was recovered following contradictory police records taken after a riot 
 << [[[SCP-030]]] | SCP-031 | [[[SCP-032]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** lovelove
+> **Authors:** Marion Doss, Yale Rosen, [[*user Roget]]
+> **License:** CC BY-SA 2.0
+> **Source Link:** [[[http://scp-wiki.wdfiles.com/local--files/scp-031/lovelove|Link]]]
+> **Derivative of:** [[[https://www.flickr.com/photos/7337467@N04/2462767761|Gage kiss]]] and [[[https://www.flickr.com/photos/30950973@N03/6499873013|Mucoepidermoid carcinoma, low grade - Case 199]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
