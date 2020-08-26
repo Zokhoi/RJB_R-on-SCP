@@ -4,10 +4,6 @@ tags:_cc co-authored collab-con2019 document euclid extradimensional oneiroi scp
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=1767|align=right|caption=SCP-1767 being recovered by MTF Gamma-6 disguised as fisherman. Cranial apparatus is clearly visible.]]
-
-
-
 **Item #:** SCP-1767
 
 **Object Class:** Euclid
