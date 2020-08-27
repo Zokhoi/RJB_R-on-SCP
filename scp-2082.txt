@@ -41,3 +41,13 @@ Following recovery operations, and cleanup of Research Area 908, the carcass of 
 << [[[SCP-2081]]] | SCP-2082 | [[[SCP-2083]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** medium-new.jpg
+> **Name:** Joensuu broadcasting station, equipment made in Yleisradio's workshop in Helsinki, 1938
+> **Author:** Archives of the Finnish Broadcasting Company Yle
+> **License:** Public Domain
+> **Source Link:** [[[https://www.flickr.com/photos/ylearkisto/15484874051/|Link]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
