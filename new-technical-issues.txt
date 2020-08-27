@@ -27,7 +27,7 @@ S uhh, I ws n my offic the ther dy and sme otput frm 914 scremed in the resrch c
 > You know, I would mock you for blatant incompetence, but I'm just happy to be doing a keyboard spill that's just coffee. 
 > ~Rosen
 
-**Note:** __08/06/2020__
+**Note:** __08/03/2020__
 //Hey, Rosen. Newly-assigned-to-914 J.R. Cens here.
 So, funny story. I [http://scp-wiki.wikidot.com/experiment-log-914/offset/13 put a flash drive with Windows 10 through 914] as one of my first tests, and the output was a Terminator figurine that installs Skynet onto a computer via USB upload. It replaced the OS of the computer, connected to the Facility 23 network, and made all network-enabled prosthetics start slapping their users repeatedly. You have an hour or two to help me?//
 //- J.R. Cens//
@@ -170,6 +170,10 @@ IRS Circular 230 Notice: We are required to advise you no person or entity may u
 **Note:** __04/08/2020__
 //Hello, my Foundation assigned laptop appears to have a problem with its sound system. You see, the speakers play the melody of "Mary Had a Little Lamb" whenever I lick the sticker with the serial number on it, even when the laptop itself is turned off. Is this normal behavior or is my laptop affected by an anomaly of some kind? Thanks in advance.//
 //- Junior Researcher Pallas//
+
+**Note:** __27/08/2020__
+//Hey, Beauvillier, Cens here. How's the reassignment been? Want me to put anything through 914 for you? I've sort of been drawing blanks on tests and I'd be happy to run something through as long as I can say that it was your idea if it goes wrong.//
+//-Junior Researcher Cens//
 
 **Note:** __██/██/████__
 //Hey, it seems that some D-Class added random things of no value or relevance whatsoever to this log. I hope it won't be a problem?//
