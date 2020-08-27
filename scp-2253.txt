@@ -41,3 +41,13 @@ As of ██/██/████ SCP-2253 is classified as Safe.
 << [[[SCP-2252]]] | SCP-2253 | [[[SCP-2254]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** valiant-brewhouse-new.jpg
+> **Name:** Brewery-nogne-o.jpg
+> **Author:** Friman
+> **License:** Public Domain
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Brewery-nogne-o.jpg|Wikimedia]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
