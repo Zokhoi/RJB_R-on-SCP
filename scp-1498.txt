@@ -4,7 +4,7 @@ tags:_cc appliance auditory autonomous euclid oneiroi ovine scp sleep transmissi
 [[module Rate]]
 [[/>]]
 
-[[include component:image-block name=download-new.jpg|caption=Instance of SCP-1498 in containment.|width=250px]]
+[[include component:image-block name=1498|caption=Instance of SCP-1498 in containment.|width=auto]]
 
 
 **Item #:** SCP-1498
