@@ -90,3 +90,13 @@ An unknown number of Site-77 personnel have been determined to have been malicio
 << [[[SCP-2599]]] | SCP-2600 | [[[SCP-2601]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** 2600
+> **Name:** closeup, photo, turned, crt television, close, view, gray, black
+> **Author:** N/A
+> **License:** CC0 1.0
+> **Source Link:** [[[https://www.piqsels.com/en/public-domain-photo-sxmmr|Link]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
