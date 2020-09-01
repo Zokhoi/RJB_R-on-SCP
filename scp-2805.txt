@@ -87,3 +87,18 @@ On 04/25/1968, SCP-2805 began calling Foundation personnel.
 << [[[SCP-2804]]] | SCP-2805 | [[[SCP-2806]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** 2805-new.png
+> **Author:** faminepulse
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2805|SCP Wiki]]]
+> **Derivative of:**
+> ------
+> **Name:** Walt Disney and Dr. Wernher von Braun
+> **Author:** National Aeronautics and Space Administration (NASA)
+> **License:** Public Domain
+> **Source Link:** [[[https://www.flickr.com/photos/nasacommons/14082812585|Link]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
