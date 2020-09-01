@@ -1,5 +1,5 @@
 title:SCP-2799
-tags:_cc co-authored doctor-bright hallucination instrument mind-affecting predictive scp telepathic thaumiel
+tags:_cc _licensebox co-authored doctor-bright hallucination instrument mind-affecting predictive scp telepathic thaumiel
 [[>]]
 [[module Rate]]
 [[/>]]
