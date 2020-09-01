@@ -77,3 +77,14 @@ Following this interview, [[[SCP-076|SCP-076-2]]] breached containment at Site-1
 << [[[SCP-2798]]] | SCP-2799 | [[[SCP-2800]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box
+|author= Roget and HammerMaiden]]
+=====
+> **Filename:** X-3-new.jpg
+> **Name:** Pocket Watch.jpg
+> **Author:** Horst Günther Burkhardt III
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Pocket_Watch.jpg|Wikimedia]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
