@@ -934,6 +934,7 @@ Have an article that was previously deleted and rewritten get to +50 or above.
 # [[*user Mew-ltiverse]]
 # [[*user UraniumEmpire]]
 # [[*user weizhong]]
+# [[*user Yossipossi]]
 
 [[/div]]
 ~~~~
@@ -951,6 +952,7 @@ Have an article that was previously deleted and rewritten get to +50 or above.
 # [[*user Calibri Bold]]
 # [[*user DianaBerry]]
 # [[*user NatVoltaic]]
+# [[*user Yossipossi]]
 
 [[/div]]
 ~~~~
