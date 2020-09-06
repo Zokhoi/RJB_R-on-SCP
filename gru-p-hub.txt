@@ -27,7 +27,7 @@ Welcome, people. Please take an available seat as soon as possible so we can sta
 
 Now then, welcome to the Orientation on ГРУ, Отдел 'П', or as we refer to it: GRU Division Psychotronics, GRU Division "P" or GRU-P. I know many of you are only here because you need to attend a certain amount of seminars each year and you're looking for a nice quiet one where you can close your eyes and doze off. I know, because when I first attended this one, that's exactly what I did. So did many of my immediate colleagues actually, so I don't doubt only few of you are actually interested in what I have to say. I will say it nonetheless, because even if you only catch a few words in your sleep-addled moments, I am sure they will be beneficial in your future work for the Foundation.
 
-As you may not know, the seed of GRU-P was planted by a small gathering of suitably open-minded men under Stalin, to investigate the murder of prominent Bolshevik leader Kirov. The history books will tell you Kirov was simply shot and killed, but Stalin knew better. I refer of course to the fact that Kirov was murdered using an construct-invasive reality discrepancy similar to the one found in iterations of SCP-███. Dr. Gerhard, you will know what I'm talking about. Don't think I didn't see your eyes pop open there, Rainier. What they found during the investigation gave Stalin enough to feed his paranoia, and the Abnormal Occurences Commission was allowed to expand its work.
+As you may not know, the seed of GRU-P was planted by a small gathering of suitably open-minded men under Stalin, to investigate the murder of prominent Bolshevik leader Kirov. The history books will tell you Kirov was simply shot and killed, but Stalin knew better. I refer of course to the fact that Kirov was murdered using an construct-invasive reality discrepancy similar to the one found in iterations of SCP-███. Dr. Gerhard, you will know what I'm talking about. Don't think I didn't see your eyes pop open there, Rainier. What they found during the investigation gave Stalin enough to feed his paranoia, and the Abnormal Occurrences Commission was allowed to expand its work.
 
 Anyway, having carried out Stalin's inquest, their attention soon turned to the possible exploitation of anomalous means for the benefit of the motherland. Let's just say that they found enough to exploit. Once the Soviets realized the capitalist nations were far ahead of them in para-natural research, with special consideration given to a vast gulf between them and Nazi Germany, GRU-P became the institution designed to fill this gap. 
 
@@ -412,7 +412,7 @@ blockquote {
 + On future prospects for national security:
 
 > [[size larger]]On future prospects for national security. [[/size]]
-> //Excerpt of speech of I.V. Stalin in front of the Abnormal Occurences Commission and officials of the Fourth Department following the report of its findings.//
+> //Excerpt of speech of I.V. Stalin in front of the Abnormal Occurrences Commission and officials of the Fourth Department following the report of its findings.//
 > [[size larger]]18.III.1935[[/size]]
 > 
 > Comrades, it was with great sadness, but greater concern that four months ago, we learned of the death of our comrade, friend and example, Sergey Mironovic Kirov. A death which, as we, through the efforts of the commission seated here today, have learned, came of the crooked hands of domestic reaction, embedded deeper than we would have expected.
