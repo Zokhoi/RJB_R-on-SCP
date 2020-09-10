@@ -1012,7 +1012,7 @@ tags:hub metadata
 * [[[SCP-3943]]] - Taco Man
 * [[[SCP-3944]]] - Memory Is Fleeting
 * [[[SCP-3945]]] - Big Huge Nightmare Panther
-* [[[SCP-3946]]] - [ACCESS DENIED]
+* [[[SCP-3946]]] - Amphitrite's Curse, Scylla's Wrath
 * [[[SCP-3947]]] - Robber Duckies
 * [[[SCP-3948]]] - The Man in the Mirror
 * [[[SCP-3949]]] - //Penumbra W.A.V.E.// #1 Fan!
