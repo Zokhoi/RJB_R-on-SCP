@@ -466,3 +466,40 @@ Out of every single one is a cold hate to go up your spine without any reason at
 <br />
 <br>
 [[/html]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** Blackdogman.PNG
+> **Author(s):** Mary Moorman (Mary Krahmer)
+> **License:** Public Domain
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Blackdogman.PNG|Wikimedia]]]
+
+> **Filename:** Badgeman.jpg
+> **Author:** Mary Moorman
+> **License:** Public Domain 
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Badgeman.jpg|Wikimedia]]]
+
+> **Filename:** smiles
+> **Name:** John F. Kennedy motorcade, Dallas crop.png
+> **Author:** Victor Hugo King
+> **License:** Public Domain
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:John_F._Kennedy_motorcade,_Dallas_crop.png|Wikimedia]]]
+
+> **Filename:** ford
+> **Name:** President Ford winces - NARA - 7065142.jpg
+> **Author:** David Hume Kennerly
+> **License:** Public Domain
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:President_Ford_winces_-_NARA_-_7065142.jpg|Wikimedia]]]
+
+> **Filename:** Oldpapertexture01.jpg
+> **Author:** Smartscrutiny
+> **License:** CC BY-SA 4.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Oldpapertexture01.jpg|Wikimedia]]]
+
+> **Filename:** rifle
+> **Name:** Mannlicher-Carcano Rifle Owned by Lee Harvey Oswald and Allegedly Used to Assassinate President John F. Kennedy - NARA - 305134 (page 1).jpg
+> **Author:** Unknown
+> **License:** Public Domain
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Mannlicher-Carcano_Rifle_Owned_by_Lee_Harvey_Oswald_and_Allegedly_Used_to_Assassinate_President_John_F._Kennedy_-_NARA_-_305134_(page_1).jpg|Wikimedia]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
