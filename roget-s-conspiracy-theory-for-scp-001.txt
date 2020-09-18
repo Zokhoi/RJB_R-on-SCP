@@ -1,5 +1,5 @@
 title:Roget's Proposal II
-tags:001-proposal _cc cadaver concept ectoentropic explained historical k-class-scenario mind-affecting scp weapon
+tags:001-proposal _cc _licensebox cadaver concept ectoentropic explained historical k-class-scenario mind-affecting scp weapon
 parent:scp-001
 [[include theme:black-highlighter-theme]]
 [[include theme:scp-offices-theme]]
