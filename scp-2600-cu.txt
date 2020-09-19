@@ -1,6 +1,6 @@
 title:SCP-2600-CU
 tags:af2014 biological esoteric-class hostile joke sapient scp
-[[include component:pet-theme]]
+[[include theme:pet]]
 
 [[>]]
 [[module Rate]]
