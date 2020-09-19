@@ -43,3 +43,13 @@ The Foundation became aware of Prometheus' connection to SCP-2379 after that com
 << [[[SCP-2378]]] | SCP-2379 | [[[SCP-2380]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** 2379.jpg
+> **Name:** Caravans at beer devon arp.jpg
+> **Author:** Adrian Pingstone
+> **License:** Public Domain
+> **Source Link:** [[[https://en.wikipedia.org/wiki/File:Caravans_at_beer_devon_arp.jpg|Wikimedia]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
