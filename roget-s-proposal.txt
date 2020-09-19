@@ -1,5 +1,5 @@
 title:Roget's Proposal
-tags:001-proposal _ _cc container k-class-scenario licensebox scp sensory spacetime structure thaumiel the-administrator visual
+tags:001-proposal _cc _licensebox container k-class-scenario scp sensory spacetime structure thaumiel the-administrator visual
 [[>]]
 [[module Rate]]
 [[/>]]
