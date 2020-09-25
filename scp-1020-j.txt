@@ -1,0 +1,78 @@
+title:SCP-1020-J
+tags:
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:image-block
+| name=https://upload.wikimedia.org/wikipedia/commons/4/4d/Nada.jpg | height=auto
+| caption=Only known image of SCP-1020-J prior to its confiscation by the Foundation.
+]]
+
+**Item #:** SCP-1020-J
+
+**Object Class:** --Fœtor;-- Neutralized 
+
+**Containment & Neutralization Summary:** Formerly non-anomalous contraband held by Junior Researcher Alleyn, who has been sacked, SCP-1020-J's furry, slimy, yet simultaneously scaly and powdery existence came into existence subsequently to Site-77's controlled evacuation and lockdown[[footnote]]As part of the successful effort to prevent a novel pathogen spreading from the civilian population to full-time Foundation personnell[[/footnote]]. The contents of SCP-1020-J prior to this are unknown, and attempts to take samples resulted in the equipment becoming disgusting beyond usability before any readings could be made.
+
+Inside of SCP-1020-J is a self-sustaining boutique blend of garbage, visually comparable to a protoplasmic cube composed of and containing the rotting curdling, self-bleach-proofed dregs, of what once may have been edible foodstuffs. 
+
+The stink wave unleashed by opening its door can be detected from inside a ground-level enclosed structure by sniffer dogs from a distance of 2.5 kilometers. Survivors of direct exposure have not been able to compare it to other odors due to the obliteration of their olfactory nerves.
+
+[[div style="background-color:#000080"]]
+[[=]]
++ [[span style="color:white"]]**{{TEST LOG}}**[[/span]]
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:96.5%; padding:10px"]]
+
+= __**1020-J Cleaning Attempt 111-331**__
+
+> **Subject:** D-0918
+> 
+> **Materials:** Chlorine-based cleaning chemicals, scrubbing and cleaning equipment, garbage bags, PPE
+> 
+> **Results:** During and after fifteen minutes of testing, D-0918 reported burning pain in their nose, throat, chest, ears, mouth, eyes, and skin[[footnote]]Including beneath the toenails[[/footnote]]. Following testing, their olfactory nerves were found to have been damaged, and all of their teeth became brittle after exposure to gaseous expulsions from within SCP-1020-J. Employment terminated upon request.
+> 
+> **Post-Test Cleanliness:** Nasty on an atomic level.
+[[/div]] 
+
+[[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:96.5%; padding:10px"]]
+
+= __**1020-J Cleaning Attempt 111-331**__
+
+> **Subject:** D-0718
+> 
+> **Materials:** Anomalous cleansing materials derived from SCP-1837's acidic compounds and by-products.
+> 
+> **Results:** No change in composition, other than the drippings coming out of SCP-1022-J and pooling in the floor and hallway outside became significantly more acidic.
+> 
+> **Post-Test Cleanliness:** Sea Of Disgust & Despair
+[[/div]]
+[[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:96.5%; padding:10px"]]
+
+= __**1020-J Cleaning Attempt 111-331**__
+
+> **Subject:** D-0412
+> 
+> **Materials:** Unequipped and unauthorized test undertaken during a regularly scheduled break period.
+> 
+> **Results:** [DATA CENSORED]
+> 
+> **Post-Test Cleanliness:** Spotless.
+[[/div]]
+
+
+
+[[div style="background-color:#700080"]]
+[[=]]
+[[span style="color:white"]]**Notice on Directive Order 167-20**[[/span]]
+[[/=]]
+[[/div]]
+
+[[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F6F6F6; float:top; width:96.5%; padding:10px"]]
+
+//The case file and status of D-0412 has been slated for review. I haven't decided whether I think she needs to be boxed up, or if she deserves a star pinned to her chest.// - Director Gillespie
+
+[[/div]]
