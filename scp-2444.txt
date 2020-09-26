@@ -1,5 +1,5 @@
 title:SCP-2444
-tags:_cc building euclid exchange extradimensional oneiroi scp sleep
+tags:_cc _licensebox building euclid exchange extradimensional oneiroi scp sleep
 [[>]]
 [[module Rate]]
 [[/>]]
