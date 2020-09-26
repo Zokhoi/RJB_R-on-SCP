@@ -69,3 +69,13 @@ The following passage has always been found erected as a banner over SCP-2444's 
 << [[[SCP-2443]]] | SCP-2444 | [[[SCP-2445]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** 2444.jpg
+> **Name:** Jyväskylä - Seppälä flea market 2.jpg
+> **Author:** Tiia Monto
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A4_-_Sepp%C3%A4l%C3%A4_flea_market_2.jpg|Wikimedia]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
