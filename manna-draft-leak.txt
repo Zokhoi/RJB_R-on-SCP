@@ -96,7 +96,7 @@ Praying for the ever-lasing blessings and tidings of heaven,
 [[/tab]]
 
 [[tab Levinine Donation Fundraising Campaign]]
-[[=image MCF-8.png width="auto"]]
+[[=image http://topia.wdfiles.com/local--files/roget-s-beach-sand/MCF-8.png width="auto"]]
 [[div style="background: url(/local--files/3rd-vesta-donation/MCF-7.png) center center no-repeat ; float: center; border: solid 4px #006c00; width: auto; padding: 1px 15px; margin: 10px 10px 10px 10px; font-family: sansationregular, cursive; background-color: #f8fdf8; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
 +++ [[span style="color:#6BAB30;"]]//Why?//[[/span]]
 
