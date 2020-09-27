@@ -1,15 +1,11 @@
 title:DRAFT: CHARITY RESCUE & RELIEF | FOR THE POOR LEVININES, SO FAR FROM GOD (BUT SO CLOSE TO DEEP POCKETS)
 tags:_image _manna-charitable-foundation canon2020 goi-format manna-charitable-foundation old-man-in-the-sea
 parent:old-man-in-the-sea-hub
+[[include :scp-wiki:theme:mcf]]
+
 [[>]]
 [[module Rate]]
 [[/>]]
-
-[[module CSS]]
-@import url(/css:mcf-quantico-font/code/1);
-@import url(/css:mcf-sansation-font/code/1);
-@import url(http://topia.wikidot.com/component:mcf-theme/code/1);
-[[/module]]
 
 //Senecio rowleyanus// is the plant Mother Nature uses when she wants to look her most regal. Strings of green pearls swooshing gently as the wind passes through. Tristan stood beneath a particularly impressive specimen. It was almost like a tree cave, seclusion on the green.
 
