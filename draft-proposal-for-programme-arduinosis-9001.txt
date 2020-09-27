@@ -1,15 +1,10 @@
 title:Draft Proposal For Programme Arduinosis 9001
 tags:_cc _manna-charitable-foundation aiad broken-god goi-format manna-charitable-foundation mtf2016
+[[include :scp-wiki:theme:mcf]]
+
 [[>]]
 [[module rate]]
 [[/>]]
-
-
-[[module CSS]]
-@import url(/css:mcf-quantico-font/code/1);
-@import url(/css:mcf-sansation-font/code/1);
-@import url(/component:MCF-theme/code/1);
-[[/module]]
 
 [[tabview]]
 [[tab Draft Proposal for Programme Arduinosis-9001 "Salvation from Clockwork Heathens" ]]
