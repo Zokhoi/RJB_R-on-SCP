@@ -1,5 +1,5 @@
 title:SCP-4761
-tags:_image arcadia electronic euclid exchange game memory-affecting online scp uncontained
+tags:_cc arcadia electronic euclid exchange game memory-affecting online scp uncontained
 [[>]]
 [[module Rate]]
 [[/>]]
