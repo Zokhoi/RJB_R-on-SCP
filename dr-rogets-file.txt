@@ -37,7 +37,7 @@ Some of my favorite SCP articles I've written are:
 
 [[div class="content-panel centered standalone"]]
 
-Check out my website! [https://rjb.report RJB Report]
++ Check out my website! [https://rjb.report RJB Report]
 
 [[/div]]
 
