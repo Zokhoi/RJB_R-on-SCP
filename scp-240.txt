@@ -29,3 +29,13 @@ SCP-240 was discovered in 1927 in the possession of the Morsum Space Society, an
 << [[[SCP-239]]] | SCP-240 | [[[SCP-241]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** 240.png
+> **Name:** Number 4. (My Airships p161).png
+> **Author:** Alberto Santos-Dumont
+> **License:** Public Domain 
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Number_4._(My_Airships_p161).png|Wikimedia]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
