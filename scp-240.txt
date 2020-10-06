@@ -1,5 +1,5 @@
 title:SCP-240
-tags:_cc airborne extradimensional extraterrestrial inscribed physics safe scp unusual-incidents-unit vehicle
+tags:_cc _licensebox airborne extradimensional extraterrestrial inscribed physics safe scp unusual-incidents-unit vehicle
 [[>]]
 [[module Rate]]
 [[/>]]
