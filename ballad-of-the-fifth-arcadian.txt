@@ -6,3 +6,12 @@ tags:_cc _fifthist arcadia fifthist goi-format
 [[=]]
 [[image https://i.imgur.com/nyeYast.png]]
 [[/=]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** have_you_played_atari_today.png
+> **Author:** [[*user Alces_alces]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://www.scpwiki.com/ballad-of-the-fifth-arcadian
+=====
+[[include :scp-wiki:component:license-box-end]]
