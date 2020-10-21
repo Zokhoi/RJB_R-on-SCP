@@ -1,5 +1,5 @@
 title:Arcadia Manual
-tags:_cc arcadia hub
+tags:_cc _licensebox arcadia hub
 parent:groups-of-interest
 [[include theme:black-highlighter-theme]]
 [[include theme:scp-offices-theme]]
