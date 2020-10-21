@@ -291,3 +291,39 @@ __Articles:__
 
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** ManualNew.png
+> **Author:** [[*user JackalRelated]]
+> **License:** CC BY-SA 3.0
+
+> **Filename:** 01.png
+> **Author:** [[*user Deadly Bread]]
+> **License:** CC BY-SA 3.0
+
+> **Filename:** 02.png
+> **Author:** [[*user JackalRelated]]
+> **License:** CC BY-SA 3.0
+
+> **Filename:** 03.png
+> **Author:** [[*user JackalRelated]]
+> **License:** CC BY-SA 3.0
+
+> **Filename:** 04.png
+> **Author:** [[*user JackalRelated]]
+> **License:** CC BY-SA 3.0
+
+> **Filename:** 05.png
+> **Author:** [[*user JackalRelated]]
+> **License:** CC BY-SA 3.0
+
+> **Filename:** 06.png
+> **Author:** [[*user Christopoulos]]
+> **License:** CC BY-SA 3.0
+
+> **Filename:** 7.png
+> **Author:** [[*user JackalRelated]]
+> **License:** CC BY-SA 3.0
+=====
+[[include :scp-wiki:component:license-box-end]]
