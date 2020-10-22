@@ -67,3 +67,12 @@ tags:_cc oneiroi tale
 [[/tab]]
 
 [[/tabview]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** OneroiGardens2.png
+> **Author:** Roget
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-wiki.wikidot.com/activity-documentation-file-11-a|SCP Wiki]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
