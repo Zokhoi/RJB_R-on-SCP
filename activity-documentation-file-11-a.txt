@@ -1,5 +1,5 @@
 title:Activity Documentation File 11-A
-tags:_cc oneiroi tale
+tags:_cc _licensebox oneiroi tale
 [[>]]
 [[module Rate]]
 [[/>]]
