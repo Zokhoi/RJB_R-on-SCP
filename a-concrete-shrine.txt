@@ -21,3 +21,15 @@ It was a long time before something else was observed in the room. A cool swirli
 //The halls and frames of figures were fleeting as fire. It was all surging and gyrating forwards as the world climbed its way around observation. It was dark and they were likely to be eaten by a grue. Snapping applause was the only catharsis. Pure terror and joy and speed. It was freedom.//
 
 Slowly, observation could see itself. The pool of ashen reflection warped memory to reality. There were none willing to adore it now. A twist, as cracks spread from where there had once been arms until they had shorn all that could now be seen. With a flourish, a final piece of theater, it was gone and only dust remained.
+
+[[include :scp-wiki:component:license-box
+|author=Roget]]
+=====
+> **Filename:** http://scp-wiki.wdfiles.com/local--files/173-festival/173blink.gif
+> **Name:** 173blink.gif
+> **Author:** [[*user cyantreuse]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/173-festival
+
+=====
+[[include :scp-wiki:component:license-box-end]]
