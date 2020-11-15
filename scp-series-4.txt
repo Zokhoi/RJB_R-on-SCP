@@ -708,7 +708,7 @@ tags:hub metadata
 * [[[SCP-3648]]] - Buga and Buninka
 * [[[SCP-3649]]] - Overcast and Overwhelming
 * [[[SCP-3650]]] - Wanderlust
-* [[[SCP-3651]]] - Make Love, Not War
+* [[[SCP-3651]]] - Chalk Children
 * [[[SCP-3652]]] - Inverting Box
 * [[[SCP-3653]]] - A Calendar with Extra Days
 * [[[SCP-3654]]] - WarTime
