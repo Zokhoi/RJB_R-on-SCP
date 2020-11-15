@@ -1,5 +1,5 @@
 title:Social Media Art Contest
-tags:_cc art2017 artwork contest
+tags:_cc art2017 artwork contest hub
 parent:contest-archive
 [[=]]
 [[image artcontestposter.png]]
