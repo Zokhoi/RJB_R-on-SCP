@@ -436,3 +436,16 @@ blockquote {
 > Comrades, all of us here are bearers of a scientific, atheistic worldview, and as such would be quick to see folk tales and rumors of the sort as mere superstition stemming from a lack of knowledge and a priest's fairy-tale worldview. Still, time to time such superstition sticks to something that is genuine, and to dismiss that would be the act of not a materialist, but a know-it-all with a worldview so rigid it can hardly be called scientific. After all, our great grandfathers would say it was Lord God who made rain fall and lightning strike, but while a Leninist knows they were wrong, he still could do better than stick his arse towards the sky in a thunderstorm, for it makes them no less real.
 > 
 > No, comrades, the work of the Abnormal Occurrences Commission shall continue - from now on it shall look at things taking place which by all reason should not have, all over the Union, and with full support of the Politbyro and the Fourth department behind it. Most of such will likely prove to be empty rumors and nonsense, but even one needle in a haystack can kill a horse. And when their diligent efforts bring understanding, we shall make use of this understanding to deal many a blow to the enemies of Soviet people, in a manner they would never have dreamed of. I leave you with the saying of our dear comrade, academician Michurin -  "We cannot wait for favors from Nature. To take them from it – that is our task."
+
+[[include :scp-wiki:component:license-box
+|author=VAElynx, Roget, Agente Shuffle]]
+=====
+> **Filename:** grubanner.png
+> **Name:** grubanner.png
+> **Author:** [[*user Croquembouche]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/gru-p-hub
+
+
+=====
+[[include :scp-wiki:component:license-box-end]]
