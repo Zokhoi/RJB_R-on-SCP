@@ -864,7 +864,7 @@ After you get a chance to digest the results, we hope that you'll engage with ot
 Thanks for reading.
 
 [[include :scp-wiki:component:license-box
-|author=Sirens]]
+|author=Roget, Elogee FishTruck, jinjja]]
 =====
 > **Filename:** Alexylva University
 > **Name:** Alexylva University
