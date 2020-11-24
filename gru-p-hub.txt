@@ -1,5 +1,5 @@
 title:GRU Division "P" Hub
-tags:_cc gru-division-p hub
+tags:_cc _licensebox gru-division-p hub
 parent:groups-of-interest
 [[>]]
 [[module Rate]]
