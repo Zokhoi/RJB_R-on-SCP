@@ -246,7 +246,7 @@ __SCP Documents Researched__
 
 [[=]]
 [[div class="content-panel standalone series"]]
-[[module ListPages created_by="Roget" separate="no" tags="canon, hub, tale, scp, essay, sandbox, admin, joke, supplement, hub" order="created_at" prependLine="||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||~ Tags ||"]] 
+[[module ListPages created_by="RJB_R" separate="no" tags="canon, hub, tale, scp, essay, sandbox, admin, joke, supplement, hub" order="created_at" prependLine="||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||~ Tags ||"]] 
 || %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% || %%tags%% ||
 [[/module]]
 [[/div]]
@@ -358,7 +358,7 @@ This section is currently under construction
 [[div class="content-panel standalone series"]]
 __Group of Interest Format__:
 
-[[module ListPages created_by="Roget" separate="no" tags="goi-format" order="created_at" prependLine="||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||"]] 
+[[module ListPages created_by="RJB_R" separate="no" tags="goi-format" order="created_at" prependLine="||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||"]] 
 || %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||
 [[/module]]
 [[/div]]
@@ -372,7 +372,7 @@ __Group of Interest Format__:
 [[div class="content-panel standalone series"]]
 __Essays__:
 
-[[module ListPages created_by="Roget" separate="no" tags="essay" order="created_at" prependLine="||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||~ Tags ||"]] 
+[[module ListPages created_by="RJB_R" separate="no" tags="essay" order="created_at" prependLine="||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||~ Tags ||"]] 
 || %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% || %%tags%% ||
 [[/module]]
 [[/div]]
