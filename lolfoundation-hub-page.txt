@@ -109,3 +109,15 @@ Please add tales in order of posting, unless it's a sequel or prequel to an exis
 
 * Tale
  * Sequel/Prequel
+
+[[include :scp-wiki:component:license-box
+|author=RJB_R]]
+=====
+> **Filename:** d9mb4uc-6bb3bdd5-5ed1-4a69-8d96-a9c03618a535.jpg
+> **Name:** d9mb4uc-6bb3bdd5-5ed1-4a69-8d96-a9c03618a535.jpg
+> **Author:** [[*user Sunnyclockwork]]d9mb4uc-6bb3bdd5-5ed1-4a69-8d96-a9c03618a535.jpg
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://www.scpwiki.com/a-sunny-day-at-the-clockwork-gallery
+
+=====
+[[include :scp-wiki:component:license-box-end]]
