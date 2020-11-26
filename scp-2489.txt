@@ -42,3 +42,15 @@ It is unclear if Governor Broward's corpse was disturbed prior to the existence 
 << [[[SCP-2488]]] | SCP-2489 | [[[SCP-2490]]] >>
 [[/=]]
 [[/div]]
+
+[[include :scp-wiki:component:license-box
+|author=RJB_R]]
+=====
+> **Filename:** broward.jpg
+> **Name:** broward.jpg
+> **Author:** US Govt
+> **License:** Public Domain
+> **Source Link:** https://www.usgs.gov/
+
+=====
+[[include :scp-wiki:component:license-box-end]]
