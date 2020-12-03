@@ -58,3 +58,17 @@ SCP-2600-EX is believed to have the ability to transfer its fur to normal speckl
 > **NOTICE TO ALL PERSONNEL**
 > Director Dobson has been relieved of his position. Our investigation found a ring of researchers working with the Director falsifying research documents and manipulating data in order to justify further research. As of now, our data shows SCP-2600 is nothing more than a fungal infection. It has been designated "Explained". You will all be receiving relocation notices to projects more worthy of your time.
 > -O5-9
+
+[[include :scp-wiki:component:license-box
+|author=RJB_R]]
+=====
+> **Filename:** 
+> **Name:** File:Fur bearing trout. Very rare. (3793949065).jpg
+> **Author:** Samantha Marx
+> **License:** CC BY 2.0
+> **Source:** https://commons.wikimedia.org/wiki/File:Fur_bearing_trout._Very_rare._(3793949065).jpg
+
+
+
+=====
+[[include :scp-wiki:component:license-box-end]]
