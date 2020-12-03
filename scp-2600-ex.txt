@@ -1,5 +1,5 @@
 title:SCP-2600-EX
-tags:_cc alive animal aquatic contagion explained piscine safe scp
+tags:_cc _licensebox alive animal aquatic contagion explained piscine safe scp
 [[>]]
 [[module Rate]]
 [[/>]]
