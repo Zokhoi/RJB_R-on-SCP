@@ -62,7 +62,7 @@ SCP-2600-EX is believed to have the ability to transfer its fur to normal speckl
 [[include :scp-wiki:component:license-box
 |author=RJB_R]]
 =====
-> **Filename:** 
+> **Filename:** 2600-ex
 > **Name:** File:Fur bearing trout. Very rare. (3793949065).jpg
 > **Author:** Samantha Marx
 > **License:** CC BY 2.0
