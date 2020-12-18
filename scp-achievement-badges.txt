@@ -198,6 +198,7 @@ Awardees:
 # [[*user stormbreath]]
 # [[*user UraniumEmpire]]
 # [[*user etoisle]] - [[[http://www.scp-wiki.net/scp-5094|SCP-5094]]]
+# [[*user WizzBlizz]] - [[[SCP-5092]]]
 
 [[/div]]
 
@@ -547,6 +548,7 @@ Awardees:
 # [[*user H0dari]]
 # [[*user UraniumEmpire]]
 # [[*user weizhong]]
+# [[*user WizzBlizz]]
 
 [[/div]]
 
