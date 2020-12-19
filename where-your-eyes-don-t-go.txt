@@ -599,7 +599,7 @@ Kim Jong-Un's inner chamber was a lavish affair. A long, marble floor stretched 
 
 "Your kind comments are noted." The voice was light, with a faint Korean accent.
 
-"I like your decor," said Ralph, sitting upon a cushion across from Kim "It's very... epic."
+"I like your decor," said Ralph, sitting upon a cushion across from Kim. "It's very... epic."
 
 Conwell gave Ralph his best get-to-the-point face, then smiled at Kim.
 
@@ -719,7 +719,7 @@ Conwell glanced over incredulously. "What‽ How?"
 
 Squeezing through the small space, Ralph popped into the backseat. The agent had a bruise on his temple and a shaved head, but other than that didn't look much worse for wear given his abduction by the hermit kingdom. Checking his pockets, a Foundation-issued ID denoted the man as Agent Aaron Ekblad, a pilot for Psi-7.
 
-//Checks out//
+//Checks out.//
 
 Using all the medical knowledge he had, Ralph proceeded to begin slapping Ekblad's face to rouse him from sleep. "Hey! Wake up! We're gettin' outta here!"
 
@@ -866,7 +866,7 @@ Standing beneath one of the few rays of sunlight still shining from the high win
 
 As Ralph began approaching, he realized that the figure was almost certainly Vang. The hair and chin peeking from beneath the pulled hood's shadow was all the evidence he needed. Pulling the vengeance weapon from its hiding place, Ralph opened his mouth to say something cool. The silence was stolen from him, however, when Vang hurled a blade at his blaster, sending it skidding across the floor.
 
-"Nice try," said Vang "But it turns out that the old wisdom of guns to a knife fight... was wrong. I'm not coming with you, Ralph." 
+"Nice try," said Vang. "But it turns out that the old wisdom of guns to a knife fight... was wrong. I'm not coming with you, Ralph." 
 
 Vang began cautiously closing the distance between himself and Ralph, now brandishing a large, steel knife. Its blade glittered in the air, and looked as sharp to Ralph as any blade he'd ever seen. Glancing at the ground, Ralph quickly picked up the knife Vang had hurled at him.
 
@@ -908,7 +908,7 @@ Director Gillespie perused the two men seated before her. One of them was her gr
 
 "I did my best, gram," said a beaming Ralph.
 
-"So, to recap... in my absence, you alienated your chief of security, called a group I //hand-picked// for you 'dregs', then left them behind with no instructions or preparation and jetted off to Pyongyang instead of delegating so somone could continue to run the site?"
+"So, to recap... in my absence, you alienated your chief of security, called a group I //hand-picked// for you 'dregs', then left them behind with no instructions or preparation and jetted off to Pyongyang instead of delegating so someone could continue to run the site?"
 
 "Uh."
 
