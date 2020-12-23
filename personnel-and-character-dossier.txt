@@ -528,6 +528,7 @@ Owns an [[[http://scp-wiki.wikidot.com/scp-4525 | interdimensional grocery store
 
 sorry dado's uppercase key is broke
 
+[[/collapsible]]
 --
 [[/tab]]
 
