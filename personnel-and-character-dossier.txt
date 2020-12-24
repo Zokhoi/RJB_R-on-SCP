@@ -526,7 +526,7 @@ Owns an [[[http://scp-wiki.wikidot.com/scp-4525 | interdimensional grocery store
 
 [[collapsible show="u is need something from dado?" hide="then u is come to right place!"]]
 
-sorry dado's uppercase key is broke
+dado uppercase key is broke
 [[/collapsible]]
 -----
 [[/tab]]
