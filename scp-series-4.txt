@@ -527,7 +527,7 @@ tags:hub metadata
 * [[[SCP-3473]]] - The Son of the Sun
 * [[[SCP-3474]]] - Grief Ignited
 * [[[SCP-3475]]] - Our Shifting Foundations
-* [[[SCP-3476]]] - Grampa's Had About Enough Of Your Sass
+* [[[SCP-3476]]] - [ACCESS DENIED]
 * [[[SCP-3477]]] - Will the Real Harold Holt Please Stand Up?
 * [[[SCP-3478]]] - A human-shaped hole to the meat dimension
 * [[[SCP-3479]]] - Proof We Are All As Angels
@@ -1021,7 +1021,7 @@ tags:hub metadata
 * [[[SCP-3952]]] - Flying Ace
 * [[[SCP-3953]]] - Costa Rica... **IN SPACE**
 * [[[SCP-3954]]] - Scarecrow's Secrets
-* [[[SCP-3955]]] - Fit...for a bit.
+* [[[SCP-3955]]] - [ACCESS DENIED]
 * [[[SCP-3956]]] - The Mealworm Song
 * [[[SCP-3957]]] - The Eternal Soviet Prison
 * [[[SCP-3958]]] - Little Brother
