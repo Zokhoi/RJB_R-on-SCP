@@ -69,8 +69,6 @@ Newly Created SCPs
 [[/div]]
 [[div class="content-type-description"]]
 
-http://scp-wiki.wikidot.com/scp-5580
-
 [[module ListPages rating=">=-10" name="scp-*" tags="-001-proposal -admin -artwork -author -contest -creepypasta -essay -former-author -goi-format -guide -hub -in-deletion -in-rewrite -news -orphaned -project -sandbox -site -splash -supplement -tale -workbench" order="created_at desc" separate="false"  perPage="51" limit="255" urlAttrPrefix="scps" prependLine="||~ Page ||~ [[size 0%]]Date Created[[/size]]📆︎ ||~ [[size 0%]]Comments[[/size]]💬︎ ||"]]
 || %%title_linked%% || %%created_at|%e%%@<&nbsp;>@%%created_at|%b %R%% || %%comments%% ||
 [[/module]]
