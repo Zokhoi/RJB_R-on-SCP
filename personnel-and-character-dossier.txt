@@ -83,7 +83,12 @@ Ran a number of highly classified cross-testing experiments with the aim of crea
 Though quiet and reserved most of the time, Dr. Edison secretly dreams of being a badass like Dr. Clef (or at least the image most staffers have of Dr. Clef). While respected as a researcher, his attempts at more outrageous endeavors are most often met with derision. Has a petty, but long-standing grudge against Delivery Agent Roadrunner. [[[bargain-bin-of-direct-to-forum-sequels| Is known to]]] [[[dr-ikari-i-presume|sometimes write]]] [[[scp-foundation-the-movie-2| terrible fanfiction.]]]
 
 [[/collapsible]]
+----
+**Dr. Justine 'Jay' Everwood:** GoI specialist, very well-read and knowledgable on the many groups of interests the Foundation faces. Is particularly interested in Wondertainment and Wilson's Wildlife Solutions.
 
+[[collapsible show="Have a wonderful day!" hide="..."]]
+Prefers to go by Jay rather than Justine, and presents themselves as nonbinary but also accepts female pronouns. They are missing their right arm, which was lost in an unexplained noodle incident. Rex Alces is their trusted assistant, and they are often stationed at Site-55.
+[[/collapsible]]
 ----
 **Dr. Chelsea "Photosynthetic" Elliott:** Plant specialist, both anomalous and non-anomalous. Dedicated, friendly, prone to tunnel vision. Often in the field; excessively 'hands-on' in her lab and field research, leading to a number of injuries. Scars cover her hands and arms.
 
