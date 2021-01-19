@@ -108,7 +108,7 @@ Records claim he was recruited shortly after the founding of the Foundation... d
 [[/collapsible]]
 
 ----
-[[# dr-glass]]
+
 **Dr. Simon Glass:** Head of Psychology. [[[Routine Psychological Evaluations By Dr Glass| Trusted with performing psychological evaluations of highly ranked Foundation personnel]]]. Very empathetic. Sometimes considered "soft" -- and that's true, for a Foundation researcher, but he's still well-trusted. In the course of [[[oneirocritic| his interviews]]], he has gained knowledge of more and more terrible secrets, yet still holds on to both his sanity and empathy.
 
 [[collapsible show="I talk to everyone, I know everyone..." hide="... Of course I'm loyal."]]
