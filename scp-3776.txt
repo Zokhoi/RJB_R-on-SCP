@@ -1,5 +1,5 @@
 title:SCP-3776
-tags:_cc class-of-76 clothing cognitohazard euclid infohazard memetic memory-affecting mind-affecting scp
+tags:_cc class-of-76 clothing cognitohazard euclid infohazard memetic memory-affecting mind-affecting scp tactile
 [[>]]
 [[module Rate]]
 [[/>]]
