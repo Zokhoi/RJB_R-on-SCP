@@ -4,7 +4,7 @@ tags:_arcadia _cc arcadia goi-format
 [[module Rate]]
 [[/>]]
 
-[[div style="font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(https://i.imgur.com/UeaXj2F.png) repeat; "float: center; border: solid 4px #444444; width: 570px; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 2px 1px 3px rgba(0,0,0,.2);"]]
+[[div style="font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(http://scp-wiki.wdfiles.com/local--files/muckraker-and-muckraker-deluxe/background) repeat; "float: center; border: solid 4px #444444; width: 570px; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 2px 1px 3px rgba(0,0,0,.2);"]]
 
 [[div class="content-panel standalone" style="background: #A9A9A9;" text-shadow: 1px 1px 1px rgba(0,0,0,.25)"]]
 
@@ -13,7 +13,7 @@ tags:_arcadia _cc arcadia goi-format
 +++++ ,,{{FROM THE INVENTOR OF INTERCHANGEABLE CARTRIDGES}},,
 +++ By //ScareSoft//
 
-[[image https://i.imgur.com/eXEzPRc.png]]
+[[image eXEzPRc.png]]
 [[/div]]
 [[/div]]
 
@@ -32,7 +32,7 @@ tags:_arcadia _cc arcadia goi-format
 [[/div]]
 
 
-[[div style="font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(https://i.imgur.com/UeaXj2F.png) repeat; "float: center; border: solid 4px #444444; width: 570px; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 2px 1px 3px rgba(0,0,0,.2);"]]
+[[div style="font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(http://scp-wiki.wdfiles.com/local--files/muckraker-and-muckraker-deluxe/background) repeat; "float: center; border: solid 4px #444444; width: 570px; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 2px 1px 3px rgba(0,0,0,.2);"]]
 
 [[div class="content-panel standalone" style="background: #A9A9A9;" text-shadow: 1px 1px 1px rgba(0,0,0,.25)"]]
 
@@ -53,7 +53,7 @@ tags:_arcadia _cc arcadia goi-format
 +++ Undead wannabe hive minds, not necessarily tech savvy, but able to use either the electronic energy or processing power of a server farm to cause problems and influence the world around them. 
 [[/div]]
 
-[[div style="font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(https://i.imgur.com/UeaXj2F.png) repeat; "float: center; border: solid 4px #444444; width: 570px; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 2px 1px 3px rgba(0,0,0,.2);"]]
+[[div style="font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(http://scp-wiki.wdfiles.com/local--files/muckraker-and-muckraker-deluxe/background) repeat; "float: center; border: solid 4px #444444; width: 570px; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 2px 1px 3px rgba(0,0,0,.2);"]]
 
 [[div class="content-panel standalone" style="background: #A9A9A9;" text-shadow: 1px 1px 1px rgba(0,0,0,.25)"]]
 
