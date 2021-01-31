@@ -481,3 +481,25 @@ Boyd's brow creased slightly, as he took more notes. "So, if you're here to help
 {{...}}
 {{...}}
 {{Logging out, O5-7}}
+
+[[include :scp-wiki:component:license-box]]
+=====
+**Image 1**
+> Filename: 1437-1-new.jpg
+> Name: Kirstan's Hole)
+> Author: Anne Burgess
+> License: CC BY-SA 2.0
+> Source Link: [https://www.geograph.org.uk/photo/184489 geograph]
+**Image 2**
+> Filename: SCP-017-new.jpg
+> Author: [[*user CityToast]]
+> License: CC BY-SA 3.0
+> Source Link: [http://scp-wiki.wikidot.com/scp-017 SCP Foundation Wiki]
+**Image 3**
+> Filename: scp990-new.jpg
+> Name: SCP-990
+> Author: Skiu photography
+> License: CC BY-SA 3.0
+> Source Link: [https://www.deviantart.com/mckejml/art/SCP-990-565183670 DeviantArt]
+=====
+[[include :scp-wiki:component:license-box-end]]
