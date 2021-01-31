@@ -613,7 +613,6 @@ Awardees:
 # [[*user NatVoltaic]]
 # [[*user Mortos]]
 # KindlyTurtleClem
-# [[*user Lt Flops]]
 # [[*user Mew-ltiverse]]
 # [[*user Ihp]]
 # [[*user Uncle Nicolini]](x2)
