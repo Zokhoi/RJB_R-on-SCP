@@ -246,7 +246,6 @@ Awardees:
 # [[*user Jacob Conwell]] Agent Sasha Merlo, Researcher Conwell, Vincent Anderson
 # [[*user MaliceAforethought]] - Researcher Lloyd
 # [[*user CadaverCommander]] - Moon Champion
-# [[*user Westrin]] - Researcher Smalls
 # [[*user Uncle Nicolini]] Faeowynn Wilson, Doctor Everwood
 # [[*user UraniumEmpire]] - Veronica Fitzroy
 
@@ -610,7 +609,7 @@ Awardees:
 # [[*user Woedenaz]]
 # [[*user aismallard]]
 # [[*user DrAnnoyingDog]]
-# [[*user not_a_seagull]]
+# [[*user notgull]]
 # [[*user NatVoltaic]]
 # [[*user Mortos]]
 # KindlyTurtleClem
@@ -643,7 +642,7 @@ Win second place in a contest.
 # [[*user DolphinSlugChugger]]
 # [[*user Ensophos]]
 # [[*user KrySalems]]
-# [[*user not_a_seagull]]
+# [[*user notgull]]
 # [[*user Mew-ltiverse]]
 # [[*user RJB-R]]
 # [[*user Captain Kirby]]
@@ -782,7 +781,7 @@ Wrote an SCP-001 proposal which achieved a rating of +250 or higher.
 # [[*user LurkD]]
 # [[*user Hammermaiden]]
 # [[*user Rounderhouse]]
-# [[*user not_a_seagull]]
+# [[*user notgull]]
 
 [[/div]]
 
