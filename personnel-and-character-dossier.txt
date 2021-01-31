@@ -237,7 +237,7 @@ Extensive involvement in major Thaumiel projects, notably [[[SCP-2000]]].
 
 Project Lead of the [[[SCP-5936|Damien]]] [[[SCP-5890|Nowak]]] [[[SCP-5795|Case]]] and all projects involving the [[[SCP-5464|Obearwatch Command]]]. Believed to once have had been a temporary member of the Wanderers' Library and [[[critter-profile-sparky|Wilson's Wildlife Solutions]]], Daniel Asheworth has proven numerous times to be a useful asset in Site-120's operation.
 
-[[collapsible show="All magic comes with a price..." hide="...but it is a price I am willing to pay"]]
+[[collapsible show="All magic comes with a price..." hide="...but it is a price I am willing to pay."]]
 
 Past proven over and over to be surrounded in a fog mystery not easily penetrated, though believed to be interchangeably connected to PoI-5936 ("Damien Nowak") and a cult under his fist, "the Children." No official evidence outside of anecdotal stories and past records exist to prove this.
 
