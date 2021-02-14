@@ -872,7 +872,7 @@ tags:hub metadata
 * [[[SCP-3806]]] - I AM AWAITED IN VALHALLA!
 * [[[SCP-3807]]] - A Real Bad Hombre
 * [[[SCP-3808]]] - Bacon Cheeseburger That Demands Justification
-* [[[SCP-3809]]] - [UNTITLED]
+* [[[SCP-3809]]] - //Love in the Time of Algorithms//
 * [[[SCP-3810]]] - [UNTITLED]
 * [[[SCP-3811]]] - A Therapist Needs A Therapist
 * [[[SCP-3812]]] - A Voice Behind Me
